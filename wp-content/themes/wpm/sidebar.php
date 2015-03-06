@@ -22,21 +22,18 @@ if ( has_nav_menu( 'primary' ) || has_nav_menu( 'social' ) || is_active_sidebar(
 			</nav><!-- .main-navigation -->
 
 			<nav id="site-navigation" class="my-navigation" role="navigation">
-			<select name="event-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'>
-				<option value=""><?php echo esc_attr('Выберете событие'); ?></option>
 				<?php
-				$categories=  get_categories('child_of=10');
-				foreach ($categories as $category) {
-					$option = '<option value="/category/archives/'.$category->category_nicename.'">';
-					$option .= $category->cat_name;
-					$option .= ' ('.$category->category_count.')';
-					$option .= '</option>';
-					echo $option;
-				}
+				$args=array(
+					'orderby' => 'name',
+					'order' => 'ASC'
+				);
+				$categories=get_categories($args);
+				foreach($categories as $category) {
+					echo '<p>Category: <a href="' . get_category_link( $category->term_id ) . '" title="' . sprintf( __( "View all posts in %s" ), $category->name ) . '" ' . '>' . $category->name.'</a> </p> ';
+					echo '<p> Description:'. $category->description . '</p>';
+					echo '<p> Post Count: '. $category->count . '</p>';  }
 				?>
-			</select>
 			</nav><!-- .my-navigation -->
-
 
 		<?php endif; ?>
 
