@@ -1,37 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f0c48c91-b428-417c-a78e-2e9775d4c9c8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.ftpquota" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.htaccess" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/license.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readme.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/robots.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/softver.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-activate.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-blog-header.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-comments-post.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-config-sample.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-cron.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-links-opml.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-load.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-login.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-mail.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-settings.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-signup.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-trackback.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/wpfoz.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xmlrpc.php" />
+    <list default="true" id="f0c48c91-b428-417c-a78e-2e9775d4c9c8" name="Default" comment="wpfoz2">
+      <change type="DELETED" beforePath="F:\web\wpfoz\composer.phar" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/wpfoz.iml" afterPath="$PROJECT_DIR$/.idea/wpfoz.iml" />
     </list>
     <ignored path="wpfoz.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -128,9 +102,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1449">
               <caret line="23" column="47" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
-              <folding>
-                <element signature="e#6#144#0#PHP" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -138,8 +110,8 @@
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.47988078" vertical-offset="0" max-vertical-offset="671">
-              <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+            <state vertical-scroll-proportion="0.20566319" vertical-offset="0" max-vertical-offset="671">
+              <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -242,7 +214,7 @@
     <property name="dynamic.classpath" value="false" />
     <property name="FullScreen" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="SearchEverywhereHistoryKey" value="back-compat.php&#9;FILE&#9;file://F:/web/wpfoz/wp0/wp-content/themes/twentyfifteen/inc/back-compat.php&#10;pluggable&#9;FILE&#9;file://F:/web/wpfoz/wp-includes/pluggable.php" />
+    <property name="SearchEverywhereHistoryKey" value="workspace&#9;null&#9;null&#10;back-compat.php&#9;FILE&#9;file://F:/web/wpfoz/wp0/wp-content/themes/twentyfifteen/inc/back-compat.php&#10;pluggable&#9;FILE&#9;file://F:/web/wpfoz/wp-includes/pluggable.php" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -305,6 +277,13 @@
       <option name="number" value="Default" />
       <updated>1424541855915</updated>
     </task>
+    <task id="LOCAL-00001" summary="wpfoz2">
+      <created>1425675622064</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1425675622064</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -358,7 +337,8 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="wpfoz2" />
+    <option name="LAST_COMMIT_MESSAGE" value="wpfoz2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -743,16 +723,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1449">
           <caret line="23" column="47" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
-          <folding>
-            <element signature="e#6#144#0#PHP" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.47988078" vertical-offset="0" max-vertical-offset="671">
-          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        <state vertical-scroll-proportion="0.20566319" vertical-offset="0" max-vertical-offset="671">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
           <folding />
         </state>
       </provider>
