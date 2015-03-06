@@ -1,0 +1,5362 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: rehub_translation\n"
+"POT-Creation-Date: 2014-12-27 22:31+0200\n"
+"PO-Revision-Date: 2014-12-27 22:33+0200\n"
+"Last-Translator: Sizam themes <sizamtheme@gmail.com>\n"
+"Language-Team: Sizam Design <sizamtheme@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n_noop:1,2\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:8
+msgid "Houston, we have a problem."
+msgstr "Хьюстон, у нас проблемы"
+
+#: ../404.php:10
+msgid "The page you are looking for has not been found."
+msgstr "Страница которую вы ищите - не найдена"
+
+#: ../admin/admin.php:22 ../admin/admin.php:23 ../admin/option/option.php:4
+msgid "Theme Options"
+msgstr "Опции темы"
+
+#: ../admin/metabox/aff_links.php:6
+msgid "Price and description"
+msgstr "Цена и описание"
+
+#: ../admin/metabox/aff_links.php:13
+msgid "Set sale price"
+msgstr "Установите цену"
+
+#: ../admin/metabox/aff_links.php:14
+msgid ""
+"Set sale price of offer (optional), example, 28.22$. Please, use dot in "
+"price (not comma)"
+msgstr ""
+"Установите цену оффера (опционально), например, 28.22$. Используйте точку "
+"как разделитель (не запятую)"
+
+#: ../admin/metabox/aff_links.php:19
+msgid "Set old price"
+msgstr "Установите старую цену"
+
+#: ../admin/metabox/aff_links.php:20
+msgid ""
+"Set old price of offer (optional), example, 24.33$. Please, use dot in price "
+"(not comma)."
+msgstr ""
+"Установите старую цену оффера (опционально), например, 24.33$. Используйте "
+"точку как разделитель"
+
+#: ../admin/metabox/aff_links.php:25 ../admin/metabox/post_type.php:343
+msgid "Set coupon code"
+msgstr "Установите код купона"
+
+#: ../admin/metabox/aff_links.php:26 ../admin/metabox/post_type.php:344
+msgid "Set coupon code or leave blank"
+msgstr "Установить код купона или пропустить"
+
+#: ../admin/metabox/aff_links.php:31 ../admin/metabox/post_type.php:350
+msgid "Coupon End Date"
+msgstr "Конечная дата купона"
+
+#: ../admin/metabox/aff_links.php:37
+msgid "Mask coupon code?"
+msgstr "Скрыть код купона?"
+
+#: ../admin/metabox/aff_links.php:38
+msgid "If this option is enabled, coupon code will be hidden."
+msgstr "Если эта опция включена, то код купона будет скрыт"
+
+#: ../admin/metabox/aff_links.php:44
+msgid "Top link in list?"
+msgstr "Это топ предложение?"
+
+#: ../admin/metabox/aff_links.php:45
+msgid "If this option is enabled, link will be visible on top of offers list"
+msgstr ""
+"Если эта опция включена, то этот оффер будет в самом верху списка офферов"
+
+#: ../admin/metabox/aff_links.php:51 ../admin/metabox/post_type.php:86
+#: ../functions/review_functions.php:388 ../template-toprating.php:115
+msgid "Description"
+msgstr "Описание"
+
+#: ../admin/metabox/aff_links.php:52
+msgid "Insert some description (optional)"
+msgstr "Введите описание (опционально)"
+
+#: ../admin/metabox/aff_links.php:58
+msgid "Link to related review"
+msgstr "Ссылка на связанный обзор"
+
+#: ../admin/metabox/aff_links.php:59
+msgid "Add link to related review or leave blank"
+msgstr "Добавить ссылку на связанный обзор или пропустить"
+
+#: ../admin/metabox/aff_links.php:66 ../admin/metabox/post_type.php:364
+#: ../shortcodes/tinyMCE/includes/price.php:119
+msgid "Button text"
+msgstr "Текст кнопки:"
+
+#: ../admin/metabox/aff_links.php:67 ../admin/metabox/post_type.php:365
+msgid ""
+"Insert text on button or leave blank to use default text. Use short names"
+msgstr ""
+"Введите текст на кнопке или оставьте пустым чтобы использовать дефолтный "
+"текст. Используйте короткие названия"
+
+#: ../admin/metabox/catalogue_constructor.php:6
+msgid "Catalogue constructor"
+msgstr "Каталог-конструктор"
+
+#: ../admin/metabox/catalogue_constructor.php:13
+msgid "Enable title of page before posts?"
+msgstr "Включить заголовок страницы перед каталогом?"
+
+#: ../admin/metabox/catalogue_constructor.php:19
+msgid "Enable content of page before posts?"
+msgstr "Включить контент страницы перед каталогом"
+
+#: ../admin/metabox/catalogue_constructor.php:25
+msgid "Choose design of posts"
+msgstr "Выбрать дизайн постов"
+
+#: ../admin/metabox/catalogue_constructor.php:29
+msgid "List style"
+msgstr "Список"
+
+#: ../admin/metabox/catalogue_constructor.php:33
+msgid "Two column grid"
+msgstr "Двухколоночный лейаут"
+
+#: ../admin/metabox/catalogue_constructor.php:37
+msgid "Three column grid"
+msgstr "3 колоночный лейаут"
+
+#: ../admin/metabox/catalogue_constructor.php:45
+#: ../admin/metabox/fullwidth_grid.php:35 ../admin/metabox/mag_builder.php:194
+#: ../admin/metabox/mag_builder.php:710 ../admin/metabox/mag_builder.php:863
+#: ../admin/metabox/mag_builder.php:1015 ../admin/metabox/mag_builder.php:1349
+#: ../admin/metabox/mag_builder.php:1491 ../admin/metabox/offer_archive.php:26
+#: ../admin/metabox/page_review.php:58
+msgid "Fetch Count"
+msgstr "Кол-во постов"
+
+#: ../admin/metabox/catalogue_constructor.php:46
+#: ../admin/metabox/fullwidth_grid.php:36 ../admin/metabox/mag_builder.php:195
+#: ../admin/metabox/page_review.php:59
+msgid "How much posts you'd like to display?"
+msgstr "Сколько записей вы хотите отобразить?"
+
+#: ../admin/metabox/catalogue_constructor.php:53
+msgid "Name of post type"
+msgstr "Название типа записи"
+
+#: ../admin/metabox/catalogue_constructor.php:54
+msgid "Enter name of your post type. By default, post"
+msgstr "Введите имя вашего типа записей. По умолчанию, post"
+
+#: ../admin/metabox/catalogue_constructor.php:59
+msgid "Show taxonomy"
+msgstr "Показать таксономию"
+
+#: ../admin/metabox/catalogue_constructor.php:60
+msgid ""
+"Enter name of your taxonomy. Example, taxonomy for posts - is category. "
+"Leave blank if you don't want to display taxonomy"
+msgstr ""
+"Введите имя вашей таксономии. Пример, таксономия для записей - category. "
+"Оставить поле пустым, если не хотите показывать таксономии"
+
+#: ../admin/metabox/catalogue_constructor.php:65
+msgid "Show exerpt"
+msgstr "Показать анонс"
+
+#: ../admin/metabox/catalogue_constructor.php:66
+msgid ""
+"Enter number of symbols for exerpt. Leave blank if you don't want to use "
+"exerpt"
+msgstr ""
+"Ввести кол-во символов для анонса. Оставить пустым, если вы не хотите "
+"использовать анонс"
+
+#: ../admin/metabox/catalogue_constructor.php:73
+msgid "Add values from custom fields"
+msgstr "Добавить значения с произвольных полей"
+
+#: ../admin/metabox/catalogue_constructor.php:78
+msgid "Choose icon"
+msgstr "Выбрать иконку"
+
+#: ../admin/metabox/catalogue_constructor.php:79
+msgid "Choose icon before field title or leave blank"
+msgstr "Выбрать иконку перед заголовком или оставьте пустым"
+
+#: ../admin/metabox/catalogue_constructor.php:93
+msgid "Title before value"
+msgstr "Заголовок перед значением"
+
+#: ../admin/metabox/catalogue_constructor.php:94
+msgid "Set title before value or leave blank"
+msgstr "Введите заголовок перед значением или оставьте пустым"
+
+#: ../admin/metabox/catalogue_constructor.php:99
+msgid "Name of custom field"
+msgstr "Имя произвольного поля"
+
+#: ../admin/metabox/catalogue_constructor.php:106
+msgid "Add button to end?"
+msgstr "Добавить кнопку в конце?"
+
+#: ../admin/metabox/catalogue_constructor.php:110
+msgid "Read more button"
+msgstr "Кнопка - читать далее"
+
+#: ../admin/metabox/catalogue_constructor.php:114
+msgid "Buy/Affiliate Button (use only in Post post type!!!)"
+msgstr "Аффилиат кнопка (использовать только в post типе записей)"
+
+#: ../admin/metabox/catalogue_constructor.php:118
+msgid "Disable button"
+msgstr "Отключить кнопку"
+
+#: ../admin/metabox/fullwidth_grid.php:6
+msgid "Full width grid settings"
+msgstr "Установки шаблона сетка на всю ширину"
+
+#: ../admin/metabox/fullwidth_grid.php:14 ../admin/metabox/page_review.php:29
+msgid "Choose category"
+msgstr "Выбрать категорию"
+
+#: ../admin/metabox/fullwidth_grid.php:15
+msgid "Choose the category that you'd like to include to page"
+msgstr "Выбрать категорию которую вы хотите включить на страницу"
+
+#: ../admin/metabox/fullwidth_grid.php:29 ../admin/metabox/page_review.php:48
+msgid "Enter tag"
+msgstr "Введите тег"
+
+#: ../admin/metabox/fullwidth_grid.php:30 ../admin/metabox/page_review.php:49
+msgid "Leave blank or set tag of posts"
+msgstr "Оставьте пустым или установите тег записи"
+
+#: ../admin/metabox/fullwidth_grid.php:43
+#: ../admin/metabox/mag_builder.php:1033
+msgid "Pagination type"
+msgstr "Тип пагинации"
+
+#: ../admin/metabox/fullwidth_grid.php:47
+#: ../admin/metabox/mag_builder.php:1037
+msgid "Simple pagination"
+msgstr "Простая пагинация"
+
+#: ../admin/metabox/fullwidth_grid.php:51
+msgid "Infinite scroll"
+msgstr "Бесконечная прокрутка записей"
+
+#: ../admin/metabox/fullwidth_grid.php:55
+#: ../admin/metabox/mag_builder.php:1045
+msgid "No pagination"
+msgstr "Без пагинации"
+
+#: ../admin/metabox/mag_builder.php:6
+msgid "Page block builder"
+msgstr "Конструктор страниц"
+
+#: ../admin/metabox/mag_builder.php:16
+msgid "Block"
+msgstr "Блок"
+
+#: ../admin/metabox/mag_builder.php:22
+msgid "Choose block"
+msgstr "Выбрать блок"
+
+#: ../admin/metabox/mag_builder.php:27
+msgid "Two column news"
+msgstr "Двухколоночные новости"
+
+#: ../admin/metabox/mag_builder.php:32 ../admin/metabox/mag_builder.php:275
+msgid "Photo gallery"
+msgstr "Фотогалерея"
+
+#: ../admin/metabox/mag_builder.php:37
+msgid "Video block"
+msgstr "Видеоблок"
+
+#: ../admin/metabox/mag_builder.php:42
+msgid "1-4 tabs block"
+msgstr "Блок с табами"
+
+#: ../admin/metabox/mag_builder.php:47
+msgid "Woo commerce carousel"
+msgstr "Woo commerce карусель"
+
+#: ../admin/metabox/mag_builder.php:52
+msgid "News block with small thumbs"
+msgstr "Блок с маленькими превью справа"
+
+#: ../admin/metabox/mag_builder.php:57 ../admin/metabox/mag_builder.php:1323
+msgid "Posts carousel block"
+msgstr "Карусель постов"
+
+#: ../admin/metabox/mag_builder.php:62 ../admin/metabox/mag_builder.php:1225
+msgid "News block without small thumbs"
+msgstr "Новостной блок"
+
+#: ../admin/metabox/mag_builder.php:67
+msgid "Posts string with small thumbs"
+msgstr "Лента записей с маленькими превью"
+
+#: ../admin/metabox/mag_builder.php:72
+msgid "Posts grid"
+msgstr "Сетка постов"
+
+#: ../admin/metabox/mag_builder.php:77
+msgid "Posts string with big thumbs"
+msgstr "Лента постов с большими изображениями"
+
+#: ../admin/metabox/mag_builder.php:82
+msgid "Slider block"
+msgstr "Слайдер"
+
+#: ../admin/metabox/mag_builder.php:87
+msgid "Custom text or banner"
+msgstr "Произвольный текст или баннер"
+
+#: ../admin/metabox/mag_builder.php:101
+msgid "Two column news block"
+msgstr "Двухколоночный новостной блок"
+
+#: ../admin/metabox/mag_builder.php:111
+msgid "Choose category for 1 column"
+msgstr "Выбрать рубрику для 1 колонки"
+
+#: ../admin/metabox/mag_builder.php:112
+msgid "Choose the category that you'd like to include to first column"
+msgstr "Выбрать категорию которую вы хотите включить в первую колонку"
+
+#: ../admin/metabox/mag_builder.php:127
+msgid "Choose post formats for 1 column"
+msgstr "Выбрать формат записей для первой колонки"
+
+#: ../admin/metabox/mag_builder.php:128
+msgid ""
+"Choose post formats to display in first column or leave blank to display all"
+msgstr "Выбрать формат записей для первой колонки или оставьте пустым"
+
+#: ../admin/metabox/mag_builder.php:143
+msgid "Offset for 1 col"
+msgstr "Пропуск для 1 колонки"
+
+#: ../admin/metabox/mag_builder.php:144
+msgid "Number of posts to offset for first column  or leave blank"
+msgstr ""
+"Кол-во записей которые нужно пропустить для первой колонки (или оставьте "
+"пустым)"
+
+#: ../admin/metabox/mag_builder.php:152
+msgid "Choose category for 2 column"
+msgstr "Выбрать рубрику для 2 колонки"
+
+#: ../admin/metabox/mag_builder.php:153
+msgid "Choose the category that you'd like to include to second column"
+msgstr "Выбрать категорию которую вы хотите включить во вторую колонку"
+
+#: ../admin/metabox/mag_builder.php:168
+msgid "Choose post formats for 2 column"
+msgstr "Выбрать формат записей для второй колонки"
+
+#: ../admin/metabox/mag_builder.php:169
+msgid ""
+"Choose post formats to display in second column or leave blank to display all"
+msgstr "Выбрать формат записей для второй колонки или оставьте пустым"
+
+#: ../admin/metabox/mag_builder.php:185
+msgid "Offset for 2 col"
+msgstr "Пропуск для 2 колонки"
+
+#: ../admin/metabox/mag_builder.php:186
+msgid "Number of posts to offset for second column  or leave blank"
+msgstr ""
+"Кол-во записей которые нужно пропустить для второй колонки (или оставьте "
+"пустым)"
+
+#: ../admin/metabox/mag_builder.php:204 ../admin/metabox/mag_builder.php:308
+#: ../admin/metabox/mag_builder.php:405 ../admin/metabox/mag_builder.php:582
+#: ../admin/metabox/mag_builder.php:734 ../admin/metabox/mag_builder.php:887
+#: ../admin/metabox/mag_builder.php:1056 ../admin/metabox/mag_builder.php:1154
+#: ../admin/metabox/mag_builder.php:1252 ../admin/metabox/mag_builder.php:1375
+#: ../admin/metabox/mag_builder.php:1501 ../admin/metabox/mag_builder.php:1597
+#: ../admin/metabox/mag_builder.php:1720
+msgid "Enable title of box?"
+msgstr "Включить заголовок блока?"
+
+#: ../admin/metabox/mag_builder.php:212 ../admin/metabox/mag_builder.php:316
+#: ../admin/metabox/mag_builder.php:413 ../admin/metabox/mag_builder.php:590
+#: ../admin/metabox/mag_builder.php:742 ../admin/metabox/mag_builder.php:895
+#: ../admin/metabox/mag_builder.php:1064 ../admin/metabox/mag_builder.php:1162
+#: ../admin/metabox/mag_builder.php:1260 ../admin/metabox/mag_builder.php:1383
+#: ../admin/metabox/mag_builder.php:1509 ../admin/metabox/mag_builder.php:1605
+#: ../admin/metabox/mag_builder.php:1726
+msgid "Title of block"
+msgstr "Заголовок блока"
+
+#: ../admin/metabox/mag_builder.php:213 ../admin/metabox/mag_builder.php:317
+#: ../admin/metabox/mag_builder.php:414 ../admin/metabox/mag_builder.php:591
+#: ../admin/metabox/mag_builder.php:743 ../admin/metabox/mag_builder.php:896
+#: ../admin/metabox/mag_builder.php:1065 ../admin/metabox/mag_builder.php:1163
+#: ../admin/metabox/mag_builder.php:1261 ../admin/metabox/mag_builder.php:1384
+#: ../admin/metabox/mag_builder.php:1510 ../admin/metabox/mag_builder.php:1606
+#: ../admin/metabox/mag_builder.php:1727
+msgid "Set title of block (use short titles)"
+msgstr "Введите заголовок блока (используйте короткие названия)"
+
+#: ../admin/metabox/mag_builder.php:224 ../admin/metabox/mag_builder.php:328
+#: ../admin/metabox/mag_builder.php:425 ../admin/metabox/mag_builder.php:602
+#: ../admin/metabox/mag_builder.php:754 ../admin/metabox/mag_builder.php:907
+#: ../admin/metabox/mag_builder.php:1076 ../admin/metabox/mag_builder.php:1174
+#: ../admin/metabox/mag_builder.php:1272 ../admin/metabox/mag_builder.php:1395
+#: ../admin/metabox/mag_builder.php:1521 ../admin/metabox/mag_builder.php:1617
+#: ../admin/metabox/mag_builder.php:1738
+msgid "Choose style of title"
+msgstr "Выбрать стиль заголовка"
+
+#: ../admin/metabox/mag_builder.php:225 ../admin/metabox/mag_builder.php:329
+#: ../admin/metabox/mag_builder.php:426 ../admin/metabox/mag_builder.php:603
+#: ../admin/metabox/mag_builder.php:755 ../admin/metabox/mag_builder.php:908
+#: ../admin/metabox/mag_builder.php:1077 ../admin/metabox/mag_builder.php:1175
+#: ../admin/metabox/mag_builder.php:1273 ../admin/metabox/mag_builder.php:1396
+#: ../admin/metabox/mag_builder.php:1522 ../admin/metabox/mag_builder.php:1618
+#: ../admin/metabox/mag_builder.php:1739
+msgid "Choose position and style of title"
+msgstr "Выбрать позицию и стиль заголовка"
+
+#: ../admin/metabox/mag_builder.php:244 ../admin/metabox/mag_builder.php:348
+#: ../admin/metabox/mag_builder.php:445 ../admin/metabox/mag_builder.php:622
+#: ../admin/metabox/mag_builder.php:774 ../admin/metabox/mag_builder.php:927
+#: ../admin/metabox/mag_builder.php:1096 ../admin/metabox/mag_builder.php:1194
+#: ../admin/metabox/mag_builder.php:1292 ../admin/metabox/mag_builder.php:1415
+#: ../admin/metabox/mag_builder.php:1541 ../admin/metabox/mag_builder.php:1637
+#: ../admin/metabox/mag_builder.php:1758
+msgid "Custom URL Text:"
+msgstr "Текст ссылки справа:"
+
+#: ../admin/metabox/mag_builder.php:245 ../admin/metabox/mag_builder.php:349
+#: ../admin/metabox/mag_builder.php:446 ../admin/metabox/mag_builder.php:623
+#: ../admin/metabox/mag_builder.php:775 ../admin/metabox/mag_builder.php:928
+#: ../admin/metabox/mag_builder.php:1097 ../admin/metabox/mag_builder.php:1195
+#: ../admin/metabox/mag_builder.php:1293 ../admin/metabox/mag_builder.php:1416
+#: ../admin/metabox/mag_builder.php:1542 ../admin/metabox/mag_builder.php:1638
+#: ../admin/metabox/mag_builder.php:1759
+msgid "Set text of url near title"
+msgstr "Введите текст ссылки рядом с заголовком:"
+
+#: ../admin/metabox/mag_builder.php:256 ../admin/metabox/mag_builder.php:360
+#: ../admin/metabox/mag_builder.php:457 ../admin/metabox/mag_builder.php:634
+#: ../admin/metabox/mag_builder.php:786 ../admin/metabox/mag_builder.php:939
+#: ../admin/metabox/mag_builder.php:1108 ../admin/metabox/mag_builder.php:1206
+#: ../admin/metabox/mag_builder.php:1304 ../admin/metabox/mag_builder.php:1427
+#: ../admin/metabox/mag_builder.php:1553 ../admin/metabox/mag_builder.php:1649
+#: ../admin/metabox/mag_builder.php:1770
+msgid "Custom URL:"
+msgstr "URL:"
+
+#: ../admin/metabox/mag_builder.php:257 ../admin/metabox/mag_builder.php:361
+#: ../admin/metabox/mag_builder.php:458 ../admin/metabox/mag_builder.php:635
+#: ../admin/metabox/mag_builder.php:787 ../admin/metabox/mag_builder.php:940
+#: ../admin/metabox/mag_builder.php:1109 ../admin/metabox/mag_builder.php:1207
+#: ../admin/metabox/mag_builder.php:1305 ../admin/metabox/mag_builder.php:1428
+#: ../admin/metabox/mag_builder.php:1554 ../admin/metabox/mag_builder.php:1650
+#: ../admin/metabox/mag_builder.php:1771
+msgid "Set url with http://"
+msgstr "Введите ссылку с http://"
+
+#: ../admin/metabox/mag_builder.php:287 ../admin/metabox/post_type.php:129
+msgid "Image"
+msgstr "Изображение"
+
+#: ../admin/metabox/mag_builder.php:292
+msgid "Upload the Image Here"
+msgstr "Загрузите изображение здесь"
+
+#: ../admin/metabox/mag_builder.php:298
+msgid "Set url"
+msgstr "Установить ссылку"
+
+#: ../admin/metabox/mag_builder.php:299
+msgid "Set url on image or leave blank"
+msgstr "Установить ссылку на изображении или оставьте пустым"
+
+#: ../admin/metabox/mag_builder.php:379
+msgid "Video news block"
+msgstr "Видеоблок"
+
+#: ../admin/metabox/mag_builder.php:389
+msgid "Choose tag for block"
+msgstr "Выбрать тег для блока"
+
+#: ../admin/metabox/mag_builder.php:390
+msgid "Choose tag from which to display content in block or leave blank"
+msgstr "Выбрать тег с которого отображать контент для блока"
+
+#: ../admin/metabox/mag_builder.php:476
+msgid "Tabbed block"
+msgstr "Таб блок"
+
+#: ../admin/metabox/mag_builder.php:486
+msgid "Choose category for 1 tab"
+msgstr "Выбрать категорию для первой вкладки"
+
+#: ../admin/metabox/mag_builder.php:487
+msgid "Choose the category that you'd like to include to first tab"
+msgstr "Выбрать категорию которую вы хотите включить в первую вкладку"
+
+#: ../admin/metabox/mag_builder.php:502
+msgid "Choose name for 1 tab"
+msgstr "Выбрать имя для первой вкладки"
+
+#: ../admin/metabox/mag_builder.php:503 ../admin/metabox/mag_builder.php:527
+#: ../admin/metabox/mag_builder.php:551 ../admin/metabox/mag_builder.php:575
+msgid "Note, name must be maximum 12 symbols"
+msgstr "Внимание, имя не должно быть более 12 символов"
+
+#: ../admin/metabox/mag_builder.php:510
+msgid "Choose category for 2 tab"
+msgstr "Выбрать категорию для второй вкладки"
+
+#: ../admin/metabox/mag_builder.php:511
+msgid "Choose the category that you'd like to include to second tab"
+msgstr "Выбрать категорию которую вы хотите включить во вторую вкладку"
+
+#: ../admin/metabox/mag_builder.php:526
+msgid "Choose name for 2 tab"
+msgstr "Выбрать имя для второй вкладки"
+
+#: ../admin/metabox/mag_builder.php:534
+msgid "Choose category for 3 tab"
+msgstr "Выбрать категорию для третьей вкладки"
+
+#: ../admin/metabox/mag_builder.php:535
+msgid "Choose the category that you'd like to include to third tab"
+msgstr "Выбрать категорию которую вы хотите включить в третью вкладку"
+
+#: ../admin/metabox/mag_builder.php:550
+msgid "Choose name for 3 tab"
+msgstr "Выбрать имя для третьей вкладки"
+
+#: ../admin/metabox/mag_builder.php:558
+msgid "Choose category for 4 tab"
+msgstr "Выбрать категорию для четвертой вкладки"
+
+#: ../admin/metabox/mag_builder.php:559
+msgid "Choose the category that you'd like to include to fourth tab"
+msgstr "Выбрать категорию которую вы хотите включить в четвертую вкладку"
+
+#: ../admin/metabox/mag_builder.php:574
+msgid "Choose name for 4 tab"
+msgstr "Выбрать имя для четвертой вкладки"
+
+#: ../admin/metabox/mag_builder.php:654
+msgid "Blog posts with small thumbs"
+msgstr "Блог записи с маленькими превью"
+
+#: ../admin/metabox/mag_builder.php:664 ../admin/metabox/mag_builder.php:816
+#: ../admin/metabox/mag_builder.php:968
+msgid "Exclude Categories"
+msgstr "Исключить рубрику с ленты"
+
+#: ../admin/metabox/mag_builder.php:665 ../admin/metabox/mag_builder.php:817
+#: ../admin/metabox/mag_builder.php:969
+msgid "Choose categories that you'd like to exclude from blog stream"
+msgstr "Выбрать рубрику которую вы хотите исключить с ленты записей"
+
+#: ../admin/metabox/mag_builder.php:679 ../admin/metabox/mag_builder.php:831
+#: ../admin/metabox/mag_builder.php:983
+msgid "Or Include Category"
+msgstr "Или включить рубрику"
+
+#: ../admin/metabox/mag_builder.php:680 ../admin/metabox/mag_builder.php:832
+#: ../admin/metabox/mag_builder.php:984
+msgid ""
+"Choose parent category that you'd like to include to stream. Or leave blank "
+"both fields to show posts from all categories"
+msgstr ""
+"Выбрать рубрику которую вы хотите включить в ленту. Или оставьте пустым оба "
+"поля, чтобы отображать записи со всех рубрик"
+
+#: ../admin/metabox/mag_builder.php:694 ../admin/metabox/mag_builder.php:847
+#: ../admin/metabox/mag_builder.php:999
+msgid "Choose post formats for block"
+msgstr "Выбрать формат записей для блока"
+
+#: ../admin/metabox/mag_builder.php:695 ../admin/metabox/mag_builder.php:848
+#: ../admin/metabox/mag_builder.php:1000
+msgid "Choose post formats to display in block or leave blank to display all"
+msgstr "Выбрать формат записей для отображения в блоке или оставьте пустым"
+
+#: ../admin/metabox/mag_builder.php:711 ../admin/metabox/mag_builder.php:864
+#: ../admin/metabox/mag_builder.php:1016
+msgid "How much posts you'd like to display in 1 page?"
+msgstr "Сколько записей вы хотите отображать на одной странице?"
+
+#: ../admin/metabox/mag_builder.php:719 ../admin/metabox/mag_builder.php:872
+#: ../admin/metabox/mag_builder.php:1024
+msgid "Offset for block"
+msgstr "Пропуск для блока"
+
+#: ../admin/metabox/mag_builder.php:720 ../admin/metabox/mag_builder.php:873
+#: ../admin/metabox/mag_builder.php:1025
+msgid "Enter number of posts to offset or leave blank"
+msgstr "Введите кол-во записей для пропуска или оставьте пустым"
+
+#: ../admin/metabox/mag_builder.php:728 ../admin/metabox/mag_builder.php:881
+#: ../admin/metabox/page_review.php:193
+msgid "Enable pagination?"
+msgstr "Включить пагинацию?"
+
+#: ../admin/metabox/mag_builder.php:806
+msgid "Regular blog posts"
+msgstr "Блог записи"
+
+#: ../admin/metabox/mag_builder.php:958
+msgid "Grid style posts"
+msgstr "Записи в стиле grid"
+
+#: ../admin/metabox/mag_builder.php:1041
+msgid "New item will be added by click"
+msgstr "Новые записи будут добавлены по клику без перезагрузки страницы"
+
+#: ../admin/metabox/mag_builder.php:1127
+msgid "News block with thumbs"
+msgstr "Новостной блок с превью"
+
+#: ../admin/metabox/mag_builder.php:1137 ../admin/metabox/mag_builder.php:1235
+#: ../admin/metabox/mag_builder.php:1333 ../admin/metabox/mag_builder.php:1471
+msgid "Choose Category"
+msgstr "Выбрать категорию"
+
+#: ../admin/metabox/mag_builder.php:1138 ../admin/metabox/mag_builder.php:1236
+#: ../admin/metabox/mag_builder.php:1334 ../admin/metabox/mag_builder.php:1472
+msgid "Choose the category that you'd like to include to block"
+msgstr "Выбрать рубрику которую вы хотите включить в блок"
+
+#: ../admin/metabox/mag_builder.php:1350
+msgid "How much posts you'd like to display in carousel?"
+msgstr "Сколько записей вы хотите включить в карусель?"
+
+#: ../admin/metabox/mag_builder.php:1358
+msgid "Choose post formats for carousel"
+msgstr "Выбрать формат записей"
+
+#: ../admin/metabox/mag_builder.php:1359
+msgid ""
+"Choose post formats to display in carousel or leave blank to display all"
+msgstr "Выбрать формат записей для карусели или оставьте пустым"
+
+#: ../admin/metabox/mag_builder.php:1446
+msgid "Posts slider block"
+msgstr "Слайдер записей"
+
+#: ../admin/metabox/mag_builder.php:1456
+msgid "Enable category?"
+msgstr "Включить рубрику"
+
+#: ../admin/metabox/mag_builder.php:1462 ../admin/metabox/offer_archive.php:13
+#: ../admin/metabox/page_meta.php:113 ../admin/metabox/page_meta.php:142
+#: ../admin/metabox/post_type.php:306 ../admin/option/option.php:542
+#: ../admin/option/option.php:666 ../admin/option/option.php:1644
+#: ../admin/option/option.php:1694
+msgid "Note"
+msgstr "Внимание"
+
+#: ../admin/metabox/mag_builder.php:1463
+msgid ""
+"If you enable field above, you can choose certain category for slider. "
+"Disable to display latest featured posts in slider."
+msgstr ""
+"Если вы включите опцию выше, вы должны будете выбрать рубрику для слайдера. "
+"Отключите опцию, чтобы отображались последние выделенные записи в слайдере."
+
+#: ../admin/metabox/mag_builder.php:1492
+msgid "How much posts you'd like to display in slider?"
+msgstr "Сколько записей отображать в слайдере?"
+
+#: ../admin/metabox/mag_builder.php:1573
+msgid "Custom block"
+msgstr "Произвольный блок"
+
+#: ../admin/metabox/mag_builder.php:1583
+msgid "Custom code"
+msgstr "Произвольный код"
+
+#: ../admin/metabox/mag_builder.php:1584
+msgid "Insert your custom code (adsense ads, banner, etc.)"
+msgstr "Вставьте свой код, например код баннера"
+
+#: ../admin/metabox/mag_builder.php:1591
+msgid "Enable box border?"
+msgstr "Отображать границу блока?"
+
+#: ../admin/metabox/mag_builder.php:1669
+msgid "Woo commerce product carousel"
+msgstr "Woo commerce карусель"
+
+#: ../admin/metabox/mag_builder.php:1680
+msgid "Number of products to display"
+msgstr "Сколько продуков отображать"
+
+#: ../admin/metabox/mag_builder.php:1690
+msgid "Type of products to display in block"
+msgstr "Тип продуктов"
+
+#: ../admin/metabox/mag_builder.php:1694
+msgid "Latest products"
+msgstr "Последние продукты"
+
+#: ../admin/metabox/mag_builder.php:1698
+msgid "Featured products"
+msgstr "Выделенные продукты"
+
+#: ../admin/metabox/mag_builder.php:1702
+msgid "Best sellers"
+msgstr "Бестселлеры"
+
+#: ../admin/metabox/mag_builder.php:1713
+msgid "Set category"
+msgstr "Установить рубрику"
+
+#: ../admin/metabox/mag_builder.php:1714
+msgid "Set slug of product category or leave blank"
+msgstr "Введите слаг категории продукта или оставьте пустым"
+
+#: ../admin/metabox/offer_archive.php:6
+msgid "Offer archive settings"
+msgstr "Настройки Архива офферов "
+
+#: ../admin/metabox/offer_archive.php:14
+msgid "This template works only with ThirstyAffiliate link posts"
+msgstr "Этот шаблон работает только с ThirstyAffiliate"
+
+#: ../admin/metabox/offer_archive.php:20
+msgid "Enter slug of category"
+msgstr "Ввести слаг рубрики"
+
+#: ../admin/metabox/offer_archive.php:21
+msgid "Leave blank or set category to show"
+msgstr "Оставьте пустым или установите слаг рубрики"
+
+#: ../admin/metabox/offer_archive.php:27
+msgid "How much posts you'd like to display on page?"
+msgstr "Сколько записей вы хотите отображать на странице?"
+
+#: ../admin/metabox/page_meta.php:6
+msgid "Branded page option"
+msgstr "Опции брендирования"
+
+#: ../admin/metabox/page_meta.php:14 ../admin/option/option.php:310
+#: ../admin/option/option.php:1546
+msgid "Background Color"
+msgstr "Цвет фона"
+
+#: ../admin/metabox/page_meta.php:15 ../admin/option/option.php:1547
+msgid "Choose the background color"
+msgstr "Выбрать цвет фона"
+
+#: ../admin/metabox/page_meta.php:21 ../admin/option/option.php:317
+#: ../admin/option/option.php:1554
+msgid "Background Image"
+msgstr "Изображение фона"
+
+#: ../admin/metabox/page_meta.php:22 ../admin/option/option.php:1555
+msgid "Upload a background image"
+msgstr "Загрузить изображение фона"
+
+#: ../admin/metabox/page_meta.php:28 ../admin/option/option.php:325
+#: ../admin/option/option.php:1561
+msgid "Background Repeat"
+msgstr "Повтор фона"
+
+#: ../admin/metabox/page_meta.php:32 ../admin/option/option.php:329
+#: ../admin/option/option.php:1565
+msgid "Repeat"
+msgstr "Повторять"
+
+#: ../admin/metabox/page_meta.php:36 ../admin/option/option.php:333
+#: ../admin/option/option.php:1569
+msgid "No Repeat"
+msgstr "Не Повторять"
+
+#: ../admin/metabox/page_meta.php:40 ../admin/option/option.php:337
+#: ../admin/option/option.php:1573
+msgid "Repeat X"
+msgstr "Повтор по оси x"
+
+#: ../admin/metabox/page_meta.php:44 ../admin/option/option.php:341
+#: ../admin/option/option.php:1577
+msgid "Repeat Y"
+msgstr "Повтор по оси y"
+
+#: ../admin/metabox/page_meta.php:54 ../admin/option/option.php:352
+#: ../admin/option/option.php:1587
+msgid "Background Position"
+msgstr "Позиция фона"
+
+#: ../admin/metabox/page_meta.php:73 ../admin/metabox/page_meta.php:134
+#: ../admin/option/option.php:375 ../admin/option/option.php:1606
+#: ../admin/option/option.php:1672
+msgid "Set offset"
+msgstr "Установите отступ"
+
+#: ../admin/metabox/page_meta.php:74 ../admin/option/option.php:1607
+msgid ""
+"Set offset from top for background (without px) for avoid header overlap"
+msgstr ""
+"Установите отступ от верха страницы для фона (без указания px) для "
+"предотвращения перекрытия фона шапкой сайта"
+
+#: ../admin/metabox/page_meta.php:80 ../admin/option/option.php:1613
+msgid "Fixed Background Image?"
+msgstr "Зафиксировать фон?"
+
+#: ../admin/metabox/page_meta.php:81 ../admin/metabox/page_meta.php:129
+#: ../admin/option/option.php:1614 ../admin/option/option.php:1667
+msgid "The background is fixed with regard to the viewport."
+msgstr "Фон будет зафиксирован при прокрутке"
+
+#: ../admin/metabox/page_meta.php:86 ../admin/option/option.php:1619
+msgid "Fit size?"
+msgstr "Подогнать размер?"
+
+#: ../admin/metabox/page_meta.php:87 ../admin/option/option.php:1620
+msgid "Set background image width and height to fit the size of window"
+msgstr ""
+"Установить высоту и ширину картинки так, чтобы она подстраивалась под размер "
+"окна"
+
+#: ../admin/metabox/page_meta.php:92 ../admin/option/option.php:1625
+msgid "Disable box shadow under content box?"
+msgstr "Отключить тень от блока контента?"
+
+#: ../admin/metabox/page_meta.php:97 ../admin/option/option.php:1630
+msgid "Set margin"
+msgstr "Установить расстояние"
+
+#: ../admin/metabox/page_meta.php:98 ../admin/option/option.php:1631
+msgid "Set margin between menu and content (without px)"
+msgstr "Установить расстояние между меню и контентом (указывать без px)"
+
+#: ../admin/metabox/page_meta.php:105 ../admin/option/option.php:1651
+msgid "Url for branded background"
+msgstr "Ссылка для брендированого фона"
+
+#: ../admin/metabox/page_meta.php:106 ../admin/option/option.php:1652
+msgid "Insert url that will be display on background"
+msgstr "Установите ссылку которая будет на брендированном фоне"
+
+#: ../admin/metabox/page_meta.php:114 ../admin/option/option.php:1645
+msgid ""
+"Cover background has centered position. Cover background works only if url "
+"(field above) is definite. You can find some examples in folder Demo_data/"
+"branded. Psd sources for these examples - in file PSD/28-branded-pages.psd"
+msgstr ""
+"Покрывающий фон имеет позиционирование по центру. Покрывающий фон работает "
+"только если ссылка (поле выше) определена. Вы можете найти некоторые примеры "
+"такого фона в папке Demo_data/branded. Исходники для этих примеров в файле "
+"PSD/28-branded-pages.psd"
+
+#: ../admin/metabox/page_meta.php:120 ../admin/option/option.php:1659
+msgid "Cover Background Image"
+msgstr "Изображение покрывающего фона"
+
+#: ../admin/metabox/page_meta.php:121 ../admin/option/option.php:1660
+msgid "Upload cover background image"
+msgstr "Загрузить изображение покрывающего фона"
+
+#: ../admin/metabox/page_meta.php:128 ../admin/option/option.php:1666
+msgid "Fixed Cover Background Image?"
+msgstr "Зафиксировать изображение покрывающего фона?"
+
+#: ../admin/metabox/page_meta.php:135 ../admin/option/option.php:1673
+msgid ""
+"Set offset from top for cover background (without px) for avoid header "
+"overlap"
+msgstr ""
+"Установите отступ от верха страницы для фона (без указания px) для "
+"предотвращения перекрытия фона шапкой сайта"
+
+#: ../admin/metabox/page_meta.php:143 ../admin/option/option.php:1695
+msgid ""
+"Branded banner displays after header. Recommended Width of image 1200px. You "
+"can find some examples in folder Demo_data/branded. Psd sources for these "
+"examples - in file PSD/28-branded-pages.psd"
+msgstr ""
+"Брендированный баннер отображается после шапки. Желательная ширина 1200px.  "
+"Вы можете найти некоторые примеры такого фона в папке Demo_data/branded. "
+"Исходники для этих примеров в файле PSD/28-branded-pages.psd"
+
+#: ../admin/metabox/page_meta.php:149 ../admin/option/option.php:1687
+msgid "Branded banner"
+msgstr "Брендированный баннер"
+
+#: ../admin/metabox/page_meta.php:150 ../admin/option/option.php:1688
+msgid "Upload branded banner image"
+msgstr "Загрузить брендированный баннер"
+
+#: ../admin/metabox/page_meta.php:156 ../admin/option/option.php:1701
+msgid "Url on branded banner"
+msgstr "Ссылка на брендированном баннере"
+
+#: ../admin/metabox/page_meta.php:157 ../admin/option/option.php:1702
+msgid "Insert url for banner"
+msgstr "Вставьте ссылку для баннера"
+
+#: ../admin/metabox/page_review.php:6
+msgid "Top review settings"
+msgstr "Настройки топа обзоров"
+
+#: ../admin/metabox/page_review.php:13
+msgid "Choose by"
+msgstr "Выбрать по"
+
+#: ../admin/metabox/page_review.php:17
+msgid "Category and/or tag"
+msgstr "Рубрике и/или тегу"
+
+#: ../admin/metabox/page_review.php:21
+msgid "Manual select and order"
+msgstr "Ручном выборе"
+
+#: ../admin/metabox/page_review.php:30
+msgid "Choose the category that you'd like to include to top review page"
+msgstr "Выбрать рубрику которую вы хотите включить в топ обзоров"
+
+#: ../admin/metabox/page_review.php:70
+msgid "Choose posts"
+msgstr "Выбрать записи"
+
+#: ../admin/metabox/page_review.php:71
+msgid "Choose posts and order"
+msgstr "Выбрать записи и их порядок"
+
+#: ../admin/metabox/page_review.php:89
+msgid "Style of design"
+msgstr "Стиль дизайна"
+
+#: ../admin/metabox/page_review.php:93
+msgid "Table"
+msgstr "Таблица"
+
+#: ../admin/metabox/page_review.php:97
+msgid "Row"
+msgstr "Строчный"
+
+#: ../admin/metabox/page_review.php:101 ../shortcodes/tinyMCE/tinyMCE.php:88
+msgid "List"
+msgstr "Список"
+
+#: ../admin/metabox/page_review.php:111
+msgid "Get description from:"
+msgstr "Взять описание с:"
+
+#: ../admin/metabox/page_review.php:115
+msgid "First 120 symbols of post"
+msgstr "Первые 120 символов поста"
+
+#: ../admin/metabox/page_review.php:119
+msgid "Description of review"
+msgstr "Описание обзора"
+
+#: ../admin/metabox/page_review.php:123
+msgid "Custom fields"
+msgstr "Произвольные поля"
+
+#: ../admin/metabox/page_review.php:127
+msgid "Disable description"
+msgstr "Отключить описание"
+
+#: ../admin/metabox/page_review.php:137
+msgid "Custom field"
+msgstr "Произвольное поле"
+
+#: ../admin/metabox/page_review.php:138
+msgid ""
+"Enter name of custom field of post. Value of this custom field will be used "
+"for description"
+msgstr ""
+"Ввести имя произвольного поля. Значение этого поля будет использовано в "
+"каталоге"
+
+#: ../admin/metabox/page_review.php:147
+msgid "Design of rating"
+msgstr "Дизайн блока рейтинга"
+
+#: ../admin/metabox/page_review.php:151
+msgid "Simple text"
+msgstr "Простой текст"
+
+#: ../admin/metabox/page_review.php:155
+msgid "Circle design"
+msgstr "В виде круга"
+
+#: ../admin/metabox/page_review.php:159
+msgid "Square design"
+msgstr "Квадратная плашка"
+
+#: ../admin/metabox/page_review.php:168
+msgid "Base of sorting"
+msgstr "База для сортировки"
+
+#: ../admin/metabox/page_review.php:169
+msgid ""
+"By default all posts are sorting by value of overall rating. But you can set "
+"name of custom field for sorting. Important! It must have numeric value"
+msgstr ""
+"По умолчанию все записи сортируются на основе значения итогового рейтинга. "
+"Но вы можете установить другую базу для сортировки указав имя произвольного "
+"поля. Важно! Это поле должно иметь числовое значение"
+
+#: ../admin/metabox/page_review.php:175
+msgid "Order of sorting:"
+msgstr "Порядок отображения"
+
+#: ../admin/metabox/page_review.php:179
+msgid "from highest to lowest"
+msgstr "с самого высокого до самого низкого"
+
+#: ../admin/metabox/page_review.php:183
+msgid "from lowest to highest"
+msgstr "с самого низкого до самого высокого"
+
+#: ../admin/metabox/page_review.php:199
+msgid "Full width?"
+msgstr "Полная ширина?"
+
+#: ../admin/metabox/page_review.php:205 ../admin/metabox/page_review.php:206
+msgid "Shortcode"
+msgstr "Шорткод"
+
+#: ../admin/metabox/post_type.php:6
+msgid "Post Type"
+msgstr "Тип записи"
+
+#: ../admin/metabox/post_type.php:13
+msgid "Choose Type of Post"
+msgstr "Выбрать тип записи"
+
+#: ../admin/metabox/post_type.php:18
+msgid "Regular"
+msgstr "Обычный"
+
+#: ../admin/metabox/post_type.php:23 ../shortcodes/tinyMCE/tinyMCE.php:105
+msgid "Video"
+msgstr "Видео"
+
+#: ../admin/metabox/post_type.php:28
+msgid "Gallery"
+msgstr "Галерея"
+
+#: ../admin/metabox/post_type.php:33
+msgid "Review"
+msgstr "Обзор"
+
+#: ../admin/metabox/post_type.php:38
+msgid "Music"
+msgstr "Музыка"
+
+#: ../admin/metabox/post_type.php:52
+msgid "Video Post"
+msgstr "Видео пост"
+
+#: ../admin/metabox/post_type.php:62
+msgid "Insert youtube or vimeo link on page with video"
+msgstr "Вставьте ютуб или вимео ссылку на страницу с видео"
+
+#: ../admin/metabox/post_type.php:63
+msgid "Video Url"
+msgstr "Ссылка на видео"
+
+#: ../admin/metabox/post_type.php:69
+msgid "Enable schema.org for video?"
+msgstr "Включить schema.org для видео?"
+
+#: ../admin/metabox/post_type.php:70
+msgid "Check this box if you want to enable videoobject schema"
+msgstr ""
+"Включите эту опцию если хотите добавить videoobject schema форматирование"
+
+#: ../admin/metabox/post_type.php:75
+#: ../shortcodes/tinyMCE/includes/bars.php:37
+#: ../shortcodes/tinyMCE/includes/gallerycarousel.php:36
+#: ../shortcodes/tinyMCE/includes/map.php:37
+#: ../shortcodes/tinyMCE/includes/titlebox.php:52
+#: ../shortcodes/tinyMCE/includes/toggle.php:46
+msgid "Title"
+msgstr "Заголовок"
+
+#: ../admin/metabox/post_type.php:76
+msgid "Set title of video block or leave blank to use post title"
+msgstr ""
+"Введите заголовок видеоблока или оставьте пустым чтобы использовать "
+"заголовок записи"
+
+#: ../admin/metabox/post_type.php:87
+msgid "Set description of video block or leave blank to use post excerpt"
+msgstr ""
+"Установите описание или оставьте пустым, чтобы использовать цитату с записи"
+
+#: ../admin/metabox/post_type.php:97
+msgid "Auto thumbnail"
+msgstr "Авто превью"
+
+#: ../admin/metabox/post_type.php:98
+msgid ""
+"Enable auto thumbnails or use post thumbnail. Note, that this thumbnail is "
+"not visible in post but can be use in seo snippet"
+msgstr "Включить авто генерацию превью или используйте превью записи. "
+
+#: ../admin/metabox/post_type.php:112
+msgid "Gallery Post"
+msgstr "Галерея"
+
+#: ../admin/metabox/post_type.php:122 ../admin/metabox/post_type.php:161
+#: ../admin/metabox/post_type.php:424
+msgid "Disable height resize for slider"
+msgstr "Отключить ресайз по высоте"
+
+#: ../admin/metabox/post_type.php:123 ../admin/metabox/post_type.php:162
+#: ../admin/metabox/post_type.php:425
+msgid ""
+"This option disable resize of photo. By default, photos are resized for 400 "
+"px height"
+msgstr ""
+"Это опция отключит ресайз фото. По умолчанию, происходит ресайз по 400 px "
+"высоты"
+
+#: ../admin/metabox/post_type.php:134 ../admin/metabox/post_type.php:177
+msgid "Add Image"
+msgstr "Добавить изображение"
+
+#: ../admin/metabox/post_type.php:155
+msgid "Add slider of images to top of review page?"
+msgstr "Добавить слайдер с изображений в верх страницы обзора?"
+
+#: ../admin/metabox/post_type.php:172
+msgid "Images"
+msgstr "Изображения"
+
+#: ../admin/metabox/post_type.php:189
+msgid "Enable countdown for offer?"
+msgstr "Включить таймер обратного отсчета для оффера"
+
+#: ../admin/metabox/post_type.php:190
+msgid "Please, use only on product reviews"
+msgstr "Пожалуйста, используйте только для продуктовых обзоров"
+
+#: ../admin/metabox/post_type.php:196
+msgid "Countdown year (example:2014)"
+msgstr "Введите год в формате: 2014"
+
+#: ../admin/metabox/post_type.php:208
+msgid "Countdown month (example:1)"
+msgstr "Введите номер месяца в формате: 1"
+
+#: ../admin/metabox/post_type.php:219
+msgid "Countdown day (example:30)"
+msgstr "Введите день в формате: 30"
+
+#: ../admin/metabox/post_type.php:230
+msgid "Countdown hour (example:12)"
+msgstr "Введите часы в формате: 12"
+
+#: ../admin/metabox/post_type.php:241
+msgid "Type of review"
+msgstr "Тип обзора"
+
+#: ../admin/metabox/post_type.php:245
+msgid "Simple Review"
+msgstr "Простой"
+
+#: ../admin/metabox/post_type.php:249 ../admin/metabox/post_type.php:271
+msgid "Product review"
+msgstr "Обзор продукта"
+
+#: ../admin/metabox/post_type.php:253 ../admin/metabox/post_type.php:391
+msgid "Woocommerce product review"
+msgstr "Обзор Woocommerce продукта"
+
+#: ../admin/metabox/post_type.php:257 ../admin/metabox/post_type.php:447
+msgid "Product review with affiliate links list"
+msgstr "Обзор продукта с списком аффилиат ссылок"
+
+#: ../admin/metabox/post_type.php:281
+msgid "Choose affiliate offer"
+msgstr "Выбрать аффилиат оффер"
+
+#: ../admin/metabox/post_type.php:282
+msgid ""
+"Choose affiliate link that you want to show as product offer or set data "
+"manually below"
+msgstr ""
+"Выбрать аффилиат ссылку с которой брать данные для продуктового оффера или "
+"установите данные вручную"
+
+#: ../admin/metabox/post_type.php:307
+msgid ""
+"If you choose affiliate offer from field above, data from it will be used on "
+"frontend. You can leave it blank and set data manually in the fields below "
+msgstr ""
+"Если вы выбираете аффилиат оффер с поля выше, его данные будут "
+"использоваться на фронтенде. Вы можете оставить это поле пустым и ввести "
+"вручную все данные ниже"
+
+#: ../admin/metabox/post_type.php:314 ../admin/metabox/post_type.php:457
+msgid "Name of product"
+msgstr "Название продукта"
+
+#: ../admin/metabox/post_type.php:315 ../admin/metabox/post_type.php:458
+msgid "Insert title or leave blank for using post title"
+msgstr ""
+"Вставьте заголовок или оставьте пустым чтобы использовать заголовок с записи"
+
+#: ../admin/metabox/post_type.php:321 ../admin/metabox/post_type.php:464
+msgid "Short description of product"
+msgstr "Короткое описание продукта"
+
+#: ../admin/metabox/post_type.php:322 ../admin/metabox/post_type.php:465
+msgid "Enter description of product or leave blank"
+msgstr "Вставьте описание продукта или оставьте пустым"
+
+#: ../admin/metabox/post_type.php:329
+msgid "Offer sale price"
+msgstr "Текущая цена оффера"
+
+#: ../admin/metabox/post_type.php:330
+msgid "Insert sale price of offer (example, $55) or any text"
+msgstr "Вставьте цену продажи оффера (например, $55) или любой текст"
+
+#: ../admin/metabox/post_type.php:336
+msgid "Offer old price"
+msgstr "Старая цена оффера"
+
+#: ../admin/metabox/post_type.php:337
+msgid "Insert old price of offer or leave blank"
+msgstr "Вставьте старую цену оффера или пропустите"
+
+#: ../admin/metabox/post_type.php:357
+msgid "Offer url"
+msgstr "Ссылка на оффер"
+
+#: ../admin/metabox/post_type.php:358
+msgid "Insert url of offer"
+msgstr "Вставьте ссылку на оффер"
+
+#: ../admin/metabox/post_type.php:372 ../admin/metabox/post_type.php:471
+msgid "Upload thumbnail"
+msgstr "Загрузите превью"
+
+#: ../admin/metabox/post_type.php:373 ../admin/metabox/post_type.php:472
+msgid "Upload thumbnail of product or leave blank to use post thumbnail"
+msgstr ""
+"Загрузите превью для оффера или оставьте пустым чтобы использовать для этого "
+"превью записи"
+
+#: ../admin/metabox/post_type.php:379 ../admin/metabox/post_type.php:435
+#: ../admin/metabox/post_type.php:494 ../admin/metabox/post_type.php:516
+msgid "Enable shortcode inserting"
+msgstr "Включить вставку шорткодом"
+
+#: ../admin/metabox/post_type.php:380
+msgid ""
+"If enable you can insert offer box in any place of content with shortcode "
+"[offer_product]. If disable - it will be before review box."
+msgstr ""
+"Если вы включите опцию вы можете вставлять блок с оффером в любое место "
+"страницы через шорткод [aff_offer_product]. Если не включать - по умолчанию "
+"блок будет выводиться перед контентом."
+
+#: ../admin/metabox/post_type.php:401
+msgid "Choose woocommerce product"
+msgstr "Продукт"
+
+#: ../admin/metabox/post_type.php:402
+msgid "Choose woocommerce product for review"
+msgstr "Обзор продукта"
+
+#: ../admin/metabox/post_type.php:417
+msgid "Enable slider"
+msgstr "Включить слайдер"
+
+#: ../admin/metabox/post_type.php:418
+msgid ""
+"This option enables slider in top of review page with images from "
+"woocommerce gallery"
+msgstr ""
+"Эта опция включит слайдер в самом верху страницы, при этом изображения будут "
+"тянуться с слайдера woocommerce"
+
+#: ../admin/metabox/post_type.php:436
+msgid ""
+"If enable you can insert offer box in any place of content with shortcode "
+"[woo_offer_product]. If disable - it will be before review box."
+msgstr ""
+"Если вы включите опцию вы можете вставлять блок с оффером в любое место "
+"страницы через шорткод [aff_offer_product]. Если не включать - по умолчанию "
+"блок будет выводиться перед контентом."
+
+#: ../admin/metabox/post_type.php:478 ../admin/metabox/woo_links.php:14
+msgid "Choose affiliate offers"
+msgstr "Выбрать аффилиат оффер"
+
+#: ../admin/metabox/post_type.php:479
+msgid "Choose affiliate links that you want to show in list"
+msgstr "Выбрать аффилиат ссылки которые вы хотите отображать в списке офферов"
+
+#: ../admin/metabox/post_type.php:495
+msgid ""
+"If enable you can insert offer box in any place of content with shortcode "
+"[aff_offer_product]. If disable - it will be before review box."
+msgstr ""
+"Если вы включите опцию вы можете вставлять блок с оффером в любое место "
+"страницы через шорткод [aff_offer_product]. Если не включать - по умолчанию "
+"блок будет выводиться перед контентом."
+
+#: ../admin/metabox/post_type.php:504
+msgid "Review Heading"
+msgstr "Заголовок обзора"
+
+#: ../admin/metabox/post_type.php:505
+msgid "Short review heading (e.g. Excellent!)"
+msgstr "Краткий заголовок обзора (например, Отлично)"
+
+#: ../admin/metabox/post_type.php:510
+msgid "Summary Text"
+msgstr "Текст вывода"
+
+#: ../admin/metabox/post_type.php:517
+msgid ""
+"If enable you can insert review box in any place of content with shortcode "
+"[review]. If disable - it will be after content."
+msgstr ""
+"Если вы включите опцию вы можете вставлять блок с обзором в любое место "
+"страницы через шорткод [review]. Если не включать - по умолчанию блок будет "
+"выводиться в конце страницы."
+
+#: ../admin/metabox/post_type.php:523
+msgid "Set overall score"
+msgstr "Установить общий итог"
+
+#: ../admin/metabox/post_type.php:524
+msgid ""
+"Enter overall score of review or leave blank to auto calculation based on "
+"criterias score"
+msgstr ""
+"Введите общий итог обзора или оставьте пустым, чтобы скрипт высчитал среднее "
+"значение на основе значений критериев обзора"
+
+#: ../admin/metabox/post_type.php:534
+msgid "Review Criterias"
+msgstr "Критерии обзора"
+
+#: ../admin/metabox/post_type.php:539 ../comments.php:36
+#: ../shortcodes/tinyMCE/includes/price.php:89
+msgid "Name"
+msgstr "Название"
+
+#: ../admin/metabox/post_type.php:544
+msgid "Score"
+msgstr "Значение"
+
+#: ../admin/metabox/post_type.php:560
+msgid "Music Post"
+msgstr "Музыкальный пост"
+
+#: ../admin/metabox/post_type.php:569
+msgid "Music Source"
+msgstr "Источник Музыки"
+
+#: ../admin/metabox/post_type.php:573
+msgid "Music from Soundcloud"
+msgstr "Soundcloud"
+
+#: ../admin/metabox/post_type.php:577
+msgid "Music from Spotify"
+msgstr "Spotify"
+
+#: ../admin/metabox/post_type.php:585
+msgid "Insert full Soundcloud embed code."
+msgstr "Введите полный код вставки с Soundcloud"
+
+#: ../admin/metabox/post_type.php:586
+msgid "Soundcloud embed code"
+msgstr "Soundcloud код вставки"
+
+#: ../admin/metabox/post_type.php:595
+msgid ""
+"To get the Spotify Song URI go to <strong>Spotify</strong> > Right click on "
+"the song you want to embed > Click <strong>Copy Spotify URI</strong> > Paste "
+"code in this field.)"
+msgstr ""
+"Чтобы получить Spotify Song URI перейдите в <strong>Spotify</strong> > "
+"нажмите правой кнопкой мыши на ту песню которую хотите взять > нажмите "
+"<strong>копировать Spotify URI</strong> > вставьте код в это поле."
+
+#: ../admin/metabox/post_type.php:596
+msgid "Spotify Song URI"
+msgstr "Spotify Song URI"
+
+#: ../admin/metabox/post_type_side.php:6
+msgid "Post settings"
+msgstr "Настройки записи"
+
+#: ../admin/metabox/post_type_side.php:15
+msgid "Post w/ sidebar or Full width"
+msgstr "Пост с сайдбаром или на полную ширину"
+
+#: ../admin/metabox/post_type_side.php:16
+msgid "Note, normal post width - 765px, full width - 1130px"
+msgstr "Внимание, обычная запись имеет ширину 765px, полноразмерная - 1130px"
+
+#: ../admin/metabox/post_type_side.php:21
+msgid "Post w/ Sidebar"
+msgstr "Пост с сайдбаром"
+
+#: ../admin/metabox/post_type_side.php:25
+msgid "Full Width Post"
+msgstr "Пост на всю ширину"
+
+#: ../admin/metabox/post_type_side.php:32
+msgid "Featured Post"
+msgstr "Избранный пост"
+
+#: ../admin/metabox/post_type_side.php:33
+msgid "Add this post to the featured posts section on homepage?"
+msgstr "Добавить эту запись в избранную зону на главной странице?"
+
+#: ../admin/metabox/post_type_side.php:39
+msgid "Display in:"
+msgstr "Отобразить в:"
+
+#: ../admin/metabox/post_type_side.php:43
+msgid "Display in slider"
+msgstr "Отобразить в слайдере"
+
+#: ../admin/metabox/post_type_side.php:47
+msgid "Display in right section"
+msgstr "Отобразить в правой части"
+
+#: ../admin/metabox/post_type_side.php:62
+msgid "Editor choice label"
+msgstr "Лейба выбор редактора"
+
+#: ../admin/metabox/post_type_side.php:63
+msgid "Check this box if you want to show \"Editor's Choice\" label"
+msgstr "Активируйте чекбокс если хотите отобразить лейбу выбор автора"
+
+#: ../admin/metabox/post_type_side.php:69
+msgid "Disable Featured Image, Video or Gallery in top part on post page"
+msgstr "Отключить превью, видео или галерею в верху поста"
+
+#: ../admin/metabox/post_type_side.php:76
+msgid "Disable other parts?"
+msgstr "Отключить другие части?"
+
+#: ../admin/metabox/post_type_side.php:77
+msgid "Check this box if you want to disable some parts of post"
+msgstr "Нажмите если хотите отключить некоторые части страницы"
+
+#: ../admin/metabox/post_type_side.php:83
+msgid "Disable Breadcrumbs"
+msgstr "Отключить хлебные крошки"
+
+#: ../admin/metabox/post_type_side.php:94
+msgid "Disable Share Buttons"
+msgstr "отключить share кнопки"
+
+#: ../admin/metabox/post_type_side.php:105
+msgid "Disable previous and next buttons"
+msgstr "отключить предыдущие и следующие кнопки"
+
+#: ../admin/metabox/post_type_side.php:116
+msgid "Disable Tags"
+msgstr "отключить теги"
+
+#: ../admin/metabox/post_type_side.php:128
+msgid "Disable Author Box"
+msgstr "отключить блок автора"
+
+#: ../admin/metabox/post_type_side.php:138
+msgid "Disable Related Posts"
+msgstr "отключить похожие записи"
+
+#: ../admin/metabox/post_type_side.php:149
+msgid "Disable global ads after post"
+msgstr "отключить рекламный блок после поста"
+
+#: ../admin/metabox/woo_links.php:6
+msgid "Additional rehub settings"
+msgstr "Дополнительные настройки темы"
+
+#: ../admin/metabox/woo_links.php:15
+msgid "Choose affiliate links that you want to show in list."
+msgstr "Выбрать аффилиат ссылки которые вы хотите отображать в списке офферов"
+
+#: ../admin/metabox/woo_links.php:29
+msgid "Choose related review post"
+msgstr "Выбрать связанный пост-обзор"
+
+#: ../admin/metabox/woo_links.php:30
+msgid "Choose post with review of this product"
+msgstr "Выбрать пост с обзором этого продукта"
+
+#: ../admin/option/option.php:9 ../admin/option/option.php:15
+msgid "General Options"
+msgstr "Общие настройки"
+
+#: ../admin/option/option.php:21
+msgid "Select Blog Layout"
+msgstr "Выбрать блог макет"
+
+#: ../admin/option/option.php:22
+msgid ""
+"Select what kind of post string layout you want to use for blog and archives"
+msgstr ""
+"Выбрать какой тип ленты постов вы хотите использовать в блоге и архивах"
+
+#: ../admin/option/option.php:26 ../admin/option/option.php:53
+msgid "Blog Layout"
+msgstr "Блог макет"
+
+#: ../admin/option/option.php:30 ../admin/option/option.php:57
+#: ../admin/option/option.php:1915
+msgid "List Layout with left thumbnails"
+msgstr "Макет с превью в левой части"
+
+#: ../admin/option/option.php:34
+msgid "Grid layout"
+msgstr "Сеточный макет"
+
+#: ../admin/option/option.php:38 ../admin/option/option.php:65
+#: ../admin/option/option.php:1923
+msgid "Full width Grid layout"
+msgstr "Макет на всю ширину"
+
+#: ../admin/option/option.php:48
+msgid "Select Category Layout"
+msgstr "Выбрать макет для рубрик"
+
+#: ../admin/option/option.php:49
+msgid "Select what kind of post string layout you want to use for categories"
+msgstr "Выбрать какой тип ленты постов вы хотите использовать в рубриках"
+
+#: ../admin/option/option.php:61 ../admin/option/option.php:1919
+msgid "Grid layout with sidebar"
+msgstr "Сеточный макет с сайдбаром"
+
+#: ../admin/option/option.php:76
+msgid "Custom CSS"
+msgstr "Кастомный CSS код"
+
+#: ../admin/option/option.php:77
+msgid "Write your custom CSS here"
+msgstr "Введите ваш произвольный код css"
+
+#: ../admin/option/option.php:84
+msgid "Analytics Code/js code"
+msgstr "Js код"
+
+#: ../admin/option/option.php:85
+msgid "Enter your Analytics code or any html, js code"
+msgstr "Введите js код здесь, или любой html"
+
+#: ../admin/option/option.php:92
+msgid "Set sidebar to left side?"
+msgstr "Установить левый сайдбар"
+
+#: ../admin/option/option.php:100
+msgid "Logo & favicon"
+msgstr "Лого и фавикон"
+
+#: ../admin/option/option.php:107
+msgid "Logo settings"
+msgstr "Лого установки"
+
+#: ../admin/option/option.php:112
+msgid "Upload Logo"
+msgstr "Загрузить лого"
+
+#: ../admin/option/option.php:113
+msgid "Upload your logo. Max width is 463px. (1200px for full width)"
+msgstr "Загрузить лого, макс. ширина 463 (1200 для полноразмерного лого)"
+
+#: ../admin/option/option.php:119
+msgid "Margin logo from top"
+msgstr "Отступ лого сверху"
+
+#: ../admin/option/option.php:120
+msgid "Set space between logo and top area in pixels"
+msgstr "Установите отступ лого от верха области в пикселях"
+
+#: ../admin/option/option.php:129
+msgid "Upload Logo (retina version)"
+msgstr "Лого (ретина версия)"
+
+#: ../admin/option/option.php:130
+msgid ""
+"Upload retina version of the logo. It should be 2x the size of main logo."
+msgstr ""
+"Загрузите лого для ретина версии. Оно должно быть в 2 раза больше обычного "
+"лого"
+
+#: ../admin/option/option.php:136
+msgid "Retina logo width"
+msgstr "Ретина лого ширина"
+
+#: ../admin/option/option.php:137
+msgid ""
+"If retina logo is uploaded, please enter the standard logo (1x) version "
+"width, do not enter the retina logo width."
+msgstr ""
+"Если ретина лого загружено, введите здесь ширину вашего обычного лого, не "
+"вводите ширину ретина лого"
+
+#: ../admin/option/option.php:142
+msgid "Retina logo height"
+msgstr "Высота ретина лого"
+
+#: ../admin/option/option.php:143
+msgid ""
+"If retina logo is uploaded, please enter the standard logo (1x) version "
+"height, do not enter the retina logo height."
+msgstr ""
+"Если ретина лого загружено, введите здесь высоту вашего обычного лого, не "
+"вводите высоту ретина лого"
+
+#: ../admin/option/option.php:148
+msgid "Text logo"
+msgstr "Текстовое лого"
+
+#: ../admin/option/option.php:149
+msgid "You can type text logo. Use this field only if no image logo"
+msgstr ""
+"Вы можете ввести текстовое лого, это поле работает только если нет лого-"
+"картинки"
+
+#: ../admin/option/option.php:154
+msgid "Slogan"
+msgstr "Слоган"
+
+#: ../admin/option/option.php:155
+msgid ""
+"You can type slogan below text logo. Use this field only if no image logo"
+msgstr ""
+"Введите слоган под лого, это поле работает только если нет лого-картинки"
+
+#: ../admin/option/option.php:162
+msgid "Favicons"
+msgstr "Фавикон"
+
+#: ../admin/option/option.php:168
+msgid "144px Favicon"
+msgstr "144px Favicon"
+
+#: ../admin/option/option.php:169
+msgid ""
+"Upload your favicon for third-generation iPad with high-resolution Retina "
+"display (144x144 px)"
+msgstr "Введите фавикон для айпадов с ретина-дисплеем  (144x144 px)"
+
+#: ../admin/option/option.php:176
+msgid "114px Favicon"
+msgstr "114px Favicon"
+
+#: ../admin/option/option.php:177
+msgid ""
+"Upload your favicon for iPhone with high-resolution Retina display (114x114 "
+"px)"
+msgstr "Введите фавикон для айфонов с ретина-дисплеем  (114x114 px)"
+
+#: ../admin/option/option.php:184
+msgid "72px Favicon"
+msgstr "72px Favicon"
+
+#: ../admin/option/option.php:185
+msgid "Upload your favicon For first- and second-generation iPad (72x72 px)"
+msgstr "Введите фавикон для айпадов без ретина  (72x72 px)"
+
+#: ../admin/option/option.php:192
+msgid "57px Favicon"
+msgstr "57px Favicon"
+
+#: ../admin/option/option.php:193
+msgid ""
+"Upload your favicon For non-Retina iPhone, iPod Touch, and Android 2.1+ "
+"devices (57x57 px)"
+msgstr ""
+"Введите фавикон для айфонов без ретина, старых андроид устройств  (57x57 px)"
+
+#: ../admin/option/option.php:199
+msgid "Default Favicon"
+msgstr "Фавикон по умолчанию"
+
+#: ../admin/option/option.php:200
+msgid "Upload your favicon For Default Browser"
+msgstr "Загрузите фавикон для браузеров"
+
+#: ../admin/option/option.php:208
+msgid "Header and Menu"
+msgstr "Хедер и Меню"
+
+#: ../admin/option/option.php:214
+msgid "Header Options"
+msgstr "Настройки хедера"
+
+#: ../admin/option/option.php:219
+msgid "Select Header style"
+msgstr "Выбрать стиль шапки"
+
+#: ../admin/option/option.php:223
+msgid "Logo + banner 468X60 + search box"
+msgstr "Лого + баннер 468X60 + поиск"
+
+#: ../admin/option/option.php:227
+msgid "Logo + banner 728X90"
+msgstr "Лого + баннер 728X90"
+
+#: ../admin/option/option.php:231
+msgid "Full width logo"
+msgstr "Лого на всю ширину"
+
+#: ../admin/option/option.php:235
+msgid "Full width logo + full width banner"
+msgstr "Лого на всю ширину (1002) + баннер на всю ширину"
+
+#: ../admin/option/option.php:245
+msgid "Enable block width of header"
+msgstr "Включить блочный вид хедера"
+
+#: ../admin/option/option.php:251
+msgid "Sticky Navigation Bar"
+msgstr "Фиксированное меню"
+
+#: ../admin/option/option.php:252
+msgid "Enable/Disable Sticky navigation bar."
+msgstr "Включить/Выключить фиксированное меню"
+
+#: ../admin/option/option.php:259
+msgid "Enable Header Social Icons"
+msgstr "Включить кнопки соц. сетей в хедере"
+
+#: ../admin/option/option.php:260
+msgid "You can set your social media URLs in the Social Media Options tab."
+msgstr ""
+"Вы можете установить ссылки на соц сети в вкладке опций социальных сетей"
+
+#: ../admin/option/option.php:266
+msgid "Disable top block"
+msgstr "Отключить топ полосу"
+
+#: ../admin/option/option.php:267
+msgid "You can disable top block with links, cart, social icons in header"
+msgstr ""
+"Вы можете отключить топ полосу с соц. кнопками, ссылкой на корзину и доп "
+"меню, которая в самом верху хедера"
+
+#: ../admin/option/option.php:273
+msgid "Choose color style of header"
+msgstr "Выбрать стиль цвета хедера"
+
+#: ../admin/option/option.php:274
+msgid "Choose one of predefinite style of header or set custom"
+msgstr "Выбрать предустановленый цвет или создайте произвольный"
+
+#: ../admin/option/option.php:278
+#: ../shortcodes/tinyMCE/includes/promobox.php:123
+msgid "White"
+msgstr "Белый"
+
+#: ../admin/option/option.php:282
+msgid "Dark"
+msgstr "Черный"
+
+#: ../admin/option/option.php:286
+msgid "Custom"
+msgstr "Произвольный"
+
+#: ../admin/option/option.php:298
+msgid "Custom Header Options"
+msgstr "Произвольный цвет хедера"
+
+#: ../admin/option/option.php:303
+msgid "Note!"
+msgstr "Внимание"
+
+#: ../admin/option/option.php:304
+msgid ""
+"Custom colors will work only if you choose custom style of header in select "
+"box above"
+msgstr ""
+"Произвольные цвета будут работать только если вы выберите произвольный цвет "
+"хедера в поле выше"
+
+#: ../admin/option/option.php:311
+msgid "Choose the background color or leave blank for default"
+msgstr "Выбрать цвет фона хедера"
+
+#: ../admin/option/option.php:318
+msgid "Upload a background image or leave blank"
+msgstr "Загрузите изображение фона"
+
+#: ../admin/option/option.php:376
+msgid "Set offset from top for background (without px) for avoid overlap"
+msgstr ""
+"Установите отступ от верха страницы для фона (без указания px) для "
+"предотвращения перекрытия фона шапкой сайта"
+
+#: ../admin/option/option.php:383
+msgid "Custom color of menu background"
+msgstr "Цвет фона меню"
+
+#: ../admin/option/option.php:384 ../admin/option/option.php:392
+#: ../admin/option/option.php:408
+msgid "Or leave blank for default color"
+msgstr "Или оставьте пустым для дефолтного цвета"
+
+#: ../admin/option/option.php:391
+msgid "Custom color of menu font"
+msgstr "Цвет текста в меню"
+
+#: ../admin/option/option.php:399
+msgid "Custom color for top line of header"
+msgstr "Цвет топ полосы в хедере"
+
+#: ../admin/option/option.php:400
+msgid "Or leave blank for default white color"
+msgstr "Или оставьте пустым для белого цвета"
+
+#: ../admin/option/option.php:407
+msgid "Custom color of menu font for top line of header"
+msgstr "Цвет текста топ полосы хедера"
+
+#: ../admin/option/option.php:416
+msgid "News ticker"
+msgstr "Новостной ротатор"
+
+#: ../admin/option/option.php:421
+msgid "Enable news ticker"
+msgstr "Включить новостной ротатор"
+
+#: ../admin/option/option.php:427
+msgid "Show only on home"
+msgstr "Отображать только на главной"
+
+#: ../admin/option/option.php:433
+msgid "Type label of newsticker"
+msgstr "Лейба"
+
+#: ../admin/option/option.php:439 ../inc/widgets/tabs_widget.php:78
+#: ../inc/widgets/tabs_widget.php:89
+msgid "Categories"
+msgstr "Рубрики"
+
+#: ../admin/option/option.php:440
+msgid "Pick the categories that will show in Newsticker."
+msgstr "Выбрать рубрики которые отображать в новостном ротаторе"
+
+#: ../admin/option/option.php:456 ../inc/widgets/tabs_widget.php:80
+#: ../inc/widgets/tabs_widget.php:91
+msgid "Tags"
+msgstr "Теги"
+
+#: ../admin/option/option.php:457
+msgid "Pick the tags that will show in Newsticker."
+msgstr "Выбрать теги которые отображать в новостном ротаторе"
+
+#: ../admin/option/option.php:470
+msgid "Number of posts to display"
+msgstr "Кол-во постов для ротации"
+
+#: ../admin/option/option.php:480
+msgid "Footer Options"
+msgstr "Футер Настройки"
+
+#: ../admin/option/option.php:486
+msgid "Footer options"
+msgstr "Футер Настройки"
+
+#: ../admin/option/option.php:491
+msgid "Footer Widgets"
+msgstr "Виджеты футера"
+
+#: ../admin/option/option.php:492
+msgid "Enable or Disable the footer widget area"
+msgstr "Включить виджеты футера?"
+
+#: ../admin/option/option.php:498
+msgid "Enable footer block width?"
+msgstr "Включить блочный вид футера?"
+
+#: ../admin/option/option.php:505
+msgid "Footer Bottom Text"
+msgstr "Текст в футере"
+
+#: ../admin/option/option.php:506
+msgid "Enter your copyright text or whatever you want right here."
+msgstr "Введите копирайты в футере или любой текст"
+
+#: ../admin/option/option.php:514
+msgid "Upload Logo for footer"
+msgstr "Загрузить лого для футера"
+
+#: ../admin/option/option.php:515
+msgid "Upload your logo for footer."
+msgstr "Загрузить лого для футера"
+
+#: ../admin/option/option.php:523
+msgid "Homepage Options"
+msgstr "Настройки Главной"
+
+#: ../admin/option/option.php:529
+msgid "Featured Area Options"
+msgstr "Область выбранных записей"
+
+#: ../admin/option/option.php:534
+msgid "Display Featured Area"
+msgstr "Отобразить область выбранных записей"
+
+#: ../admin/option/option.php:535
+msgid "Display the featured area on the homepage"
+msgstr "Отобразить область на главной странице"
+
+#: ../admin/option/option.php:543
+msgid ""
+"Each post has option to be chosen as Featured Post in post settings. You "
+"need to have minimum 5 featured posts (3 for slider and 2 for right section) "
+"for correct work of feature section. Also, you can create featured section "
+"based on tag name. Don't choose any posts and set tag for this. If you leave "
+"all fields blank, 5 last posts that you mark as featured will be shown"
+msgstr ""
+"Каждый пост может быть обозначен как Избранный пост в настройках записи "
+"(правая колонка). Вы должны иметь минимум 5 таких записей (3 для слайдера и "
+"2 для правой части). Также, вы можете создать избранную область основаную на "
+"теге. Просто не выбирайте записи и установите имя тега для этого. Если вы "
+"оставите все поля пустыми, то 5 последних записей, которые вы обозначили как "
+"избранные, будут показаны"
+
+#: ../admin/option/option.php:556
+msgid "Posts for feature slider"
+msgstr "Записи для слайдера"
+
+#: ../admin/option/option.php:557
+msgid "Select posts for feature slider"
+msgstr "Записи для слайдера"
+
+#: ../admin/option/option.php:576
+msgid "Posts for right feature section"
+msgstr "Записи для правой части области"
+
+#: ../admin/option/option.php:577
+msgid "Select 2 posts for right feature section"
+msgstr "Записи для правой части области"
+
+#: ../admin/option/option.php:594
+msgid "Set color for overlay in slider"
+msgstr "Выбрать цвет подложки под текстом в слайдере"
+
+#: ../admin/option/option.php:595
+msgid "Or leave blank for slider without overlay"
+msgstr "Или оставьте пустым чтобы не было подложки"
+
+#: ../admin/option/option.php:607
+msgid "Set tag"
+msgstr "Установить тег"
+
+#: ../admin/option/option.php:608
+msgid "Set name of tag"
+msgstr "Введите имя тега"
+
+#: ../admin/option/option.php:619
+msgid "Exclude featured posts from posts string"
+msgstr "Исключить избранные посты с других блоков"
+
+#: ../admin/option/option.php:620
+msgid ""
+"Set this to on if you want to exclude your featured posts from posts string "
+"of other post blocks"
+msgstr ""
+"Установите это если вы хотите исключить избранные записи с ленты и "
+"содержания других контентных блоков"
+
+#: ../admin/option/option.php:632
+msgid "Home page carousel Options"
+msgstr "Карусель на главной странице"
+
+#: ../admin/option/option.php:637
+msgid "Display Homepage carousel"
+msgstr "Отобразить карусель на главной странице"
+
+#: ../admin/option/option.php:638
+msgid "Display fullwidth carousel area on the homepage"
+msgstr "Отобразить карусель на главной странице"
+
+#: ../admin/option/option.php:644
+msgid "Editor's choice posts"
+msgstr "Записи с меткой выбор редактора"
+
+#: ../admin/option/option.php:645
+msgid "Display posts with editor's choice label?"
+msgstr "Отобразить записи с меткой выбор редактора"
+
+#: ../admin/option/option.php:655
+msgid "Or from tag"
+msgstr "Или с тега"
+
+#: ../admin/option/option.php:656
+msgid ""
+"Or enter name of tag for posts to show (also disable checkbox above for this)"
+msgstr ""
+"Или введите имя тега с которого брать записи (также отключите чекбокс выше "
+"для этого)"
+
+#: ../admin/option/option.php:667
+msgid ""
+"You need to have minimum 5 posts for correct work of feature section. "
+"Editor's choice label you can set in options of each post on right section."
+msgstr ""
+"Вы должны иметь минимум 5 записей для корректной работы. Поставить метку "
+"выбор редактора можно в опциях каждого поста в правой секции."
+
+#: ../admin/option/option.php:677
+msgid "Show badge on carousel"
+msgstr "Отобразить бейдж на карусели"
+
+#: ../admin/option/option.php:678
+msgid "Display badge on carousel?"
+msgstr "Отобразить бейдж на карусели"
+
+#: ../admin/option/option.php:688
+msgid "Choose badge color"
+msgstr "Выбрать цвет бейджа"
+
+#: ../admin/option/option.php:692
+msgid "Orange - default"
+msgstr "Оранж"
+
+#: ../admin/option/option.php:696 ../admin/option/option.php:853
+#: ../shortcodes/tinyMCE/includes/button.php:77
+#: ../shortcodes/tinyMCE/includes/numberbox.php:61
+#: ../shortcodes/tinyMCE/includes/numberheading.php:62
+#: ../shortcodes/tinyMCE/includes/price.php:104
+msgid "Blue"
+msgstr "Голубой"
+
+#: ../admin/option/option.php:700 ../admin/option/option.php:857
+#: ../shortcodes/tinyMCE/includes/button.php:78
+#: ../shortcodes/tinyMCE/includes/price.php:105
+msgid "Green"
+msgstr "Зеленый"
+
+#: ../admin/option/option.php:704 ../admin/option/option.php:861
+msgid "Violet"
+msgstr "Фиолет"
+
+#: ../admin/option/option.php:716
+msgid "Set text on label"
+msgstr "Установить текст на бейдже"
+
+#: ../admin/option/option.php:717
+msgid ""
+"Text in span tag will be on second row, please, use short text (8 symbols "
+"for 1 row, 7 symbols for 2 row)"
+msgstr ""
+"Текст в span теге отобразится на второй линии, используйте короткий текст "
+"(макс. 8 символов для 1 линии и 7 для второй)"
+
+#: ../admin/option/option.php:727
+msgid "Display on category pages?"
+msgstr "Отобразить карусель на страницах рубрик?"
+
+#: ../admin/option/option.php:728
+msgid "Display fullwidth carousel area also on category pages?"
+msgstr "Отобразить карусель на страницах рубрик?"
+
+#: ../admin/option/option.php:742
+msgid "Social Media Options"
+msgstr "Опции социальных медиа"
+
+#: ../admin/option/option.php:748
+msgid "Social Media Pages"
+msgstr "Соц медиа страницы"
+
+#: ../admin/option/option.php:753
+msgid "Facebook link"
+msgstr "Фейсбук ссылка"
+
+#: ../admin/option/option.php:759
+msgid "Twitter link"
+msgstr "Twitter"
+
+#: ../admin/option/option.php:765
+msgid "Google plus link"
+msgstr "Google plus"
+
+#: ../admin/option/option.php:771
+msgid "Instagram link"
+msgstr "Instagram"
+
+#: ../admin/option/option.php:777
+msgid "Tumblr link"
+msgstr "Tumblr"
+
+#: ../admin/option/option.php:783
+msgid "Youtube link"
+msgstr "Youtube"
+
+#: ../admin/option/option.php:789
+msgid "Vimeo link"
+msgstr "Vimeo ссылка"
+
+#: ../admin/option/option.php:795
+msgid "Pinterest link"
+msgstr "Pinterest"
+
+#: ../admin/option/option.php:801
+msgid "Linkedin link"
+msgstr "Linkedin"
+
+#: ../admin/option/option.php:807
+msgid "Soundcloud link"
+msgstr "Soundcloud"
+
+#: ../admin/option/option.php:813
+msgid "Dribbble link"
+msgstr "Dribbble"
+
+#: ../admin/option/option.php:819
+msgid "Vk.com link"
+msgstr "Vk.com"
+
+#: ../admin/option/option.php:826
+msgid "Rss link"
+msgstr "Rss"
+
+#: ../admin/option/option.php:834
+msgid "Appearance/Color"
+msgstr "Отображение/цвет"
+
+#: ../admin/option/option.php:840
+msgid "Color schema of website"
+msgstr "Цветовая схема сайта"
+
+#: ../admin/option/option.php:845
+msgid "Choose color schema"
+msgstr "Выбрать цветовую схему"
+
+#: ../admin/option/option.php:849
+msgid "Default - orange"
+msgstr "Оранж - дефолт"
+
+#: ../admin/option/option.php:865
+msgid "Yellow"
+msgstr "Желтая"
+
+#: ../admin/option/option.php:875
+msgid "Custom color"
+msgstr "Произвольный цвет"
+
+#: ../admin/option/option.php:876
+msgid "Or you can set any main color (it will be used under white text)"
+msgstr ""
+"Вы можете установить любой цвет, но учтите, что он отображается под белым "
+"текстом"
+
+#: ../admin/option/option.php:882
+msgid "Create flat color for background"
+msgstr "Сохдать простой одноцветный фон"
+
+#: ../admin/option/option.php:883
+msgid ""
+"Disable default background image and add flat color. If you want to add "
+"images to background - use enhanced branded background options in Ads Options"
+msgstr ""
+"Отключить изображение фона и установить простой одноцветный фон. Если вы "
+"хотите добавить фон с изображением - используйте расширенные опции "
+"брендированного фона в Опциях рекламы"
+
+#: ../admin/option/option.php:892
+msgid "Disable dotted overlay on thumbnails?"
+msgstr "Отключить покрытие на миниатюрах?"
+
+#: ../admin/option/option.php:898
+msgid "Enable ecwid store customization?"
+msgstr "Включить Ecwid кастомизацию?"
+
+#: ../admin/option/option.php:904
+msgid "Custom color for links inside posts"
+msgstr "Цвет ссылок внутри записи"
+
+#: ../admin/option/option.php:911
+msgid "Fonts Options"
+msgstr "Опции шрифта"
+
+#: ../admin/option/option.php:918
+msgid "Navigation Font"
+msgstr "Шрифт меню"
+
+#: ../admin/option/option.php:923
+msgid "Navigation Font Family"
+msgstr "Шрифт меню"
+
+#: ../admin/option/option.php:924
+msgid "Font for navigation"
+msgstr "Шрифт меню"
+
+#: ../admin/option/option.php:937 ../admin/option/option.php:1010
+#: ../admin/option/option.php:1083 ../admin/option/option.php:1156
+#: ../admin/option/option.php:1229
+msgid "Font Style"
+msgstr "Стиль шрифта"
+
+#: ../admin/option/option.php:954 ../admin/option/option.php:1027
+#: ../admin/option/option.php:1100 ../admin/option/option.php:1173
+#: ../admin/option/option.php:1246
+msgid "Font Weight"
+msgstr "Вес шрифта"
+
+#: ../admin/option/option.php:968 ../admin/option/option.php:1041
+#: ../admin/option/option.php:1114 ../admin/option/option.php:1187
+#: ../admin/option/option.php:1260
+msgid "Font Subset"
+msgstr "Шрифтовые сабсеты"
+
+#: ../admin/option/option.php:983 ../admin/option/option.php:1056
+#: ../admin/option/option.php:1129 ../admin/option/option.php:1202
+msgid "Disable uppercase?"
+msgstr "Отключить верхний регистр?"
+
+#: ../admin/option/option.php:991
+msgid "Headings Font"
+msgstr "Шрифт заголовков"
+
+#: ../admin/option/option.php:996
+msgid "Headings Font Family"
+msgstr "Шрифт заголовков"
+
+#: ../admin/option/option.php:997
+msgid "Font for headings in text, sidebar, footer"
+msgstr "Шрифт заголовков в тексте, сайдбаре, футере"
+
+#: ../admin/option/option.php:1064
+msgid "Block Titles"
+msgstr "Заголовки Блоков"
+
+#: ../admin/option/option.php:1069
+msgid "Block Titles Font"
+msgstr "Шрифт заголовков блоков"
+
+#: ../admin/option/option.php:1070
+msgid "Font for titles of content blocks and pages"
+msgstr "Шрифт заголовков контент блоков и страниц"
+
+#: ../admin/option/option.php:1137
+msgid "Slider Headings"
+msgstr "Заголовки Слайдера"
+
+#: ../admin/option/option.php:1142
+msgid "Slider Headings Font"
+msgstr "Шрифт заголовков слайдера"
+
+#: ../admin/option/option.php:1143
+msgid "Font for slider headings"
+msgstr "Шрифт для заголовков слайдера"
+
+#: ../admin/option/option.php:1210
+msgid "Body Font"
+msgstr "Шрифт текста страниц"
+
+#: ../admin/option/option.php:1215
+msgid "Body Font Family"
+msgstr "Шрифт текста страниц"
+
+#: ../admin/option/option.php:1216
+msgid "Font for body text"
+msgstr "Шрифт текста страниц"
+
+#: ../admin/option/option.php:1279
+msgid "Global Enable/Disable"
+msgstr "Глобальное отключение"
+
+#: ../admin/option/option.php:1285
+msgid "Global options"
+msgstr "Глобальные настройки"
+
+#: ../admin/option/option.php:1290
+msgid "Enable resizer script"
+msgstr "Включить скрипт ресайза изображений"
+
+#: ../admin/option/option.php:1291
+msgid "Use resizer script for thumbnails"
+msgstr "Использовать скрипт ресайза"
+
+#: ../admin/option/option.php:1297
+msgid "Disable crop in resizer script"
+msgstr "Отключить кроп в ресайз скрипте"
+
+#: ../admin/option/option.php:1307
+msgid "Enable theme shortcode"
+msgstr "Включить шорткоды темы"
+
+#: ../admin/option/option.php:1308
+msgid "Enable built-in shortcode plugin"
+msgstr "Включить встроенные шорткоды темы"
+
+#: ../admin/option/option.php:1314
+msgid "Disable author link"
+msgstr "Отключить ссылки на автора"
+
+#: ../admin/option/option.php:1315
+msgid "Disable author link from meta in string"
+msgstr "Отключить ссылку на автора в мета секции"
+
+#: ../admin/option/option.php:1321
+msgid "Disable category link"
+msgstr "Отключить ссылку категорий"
+
+#: ../admin/option/option.php:1322
+msgid "Disable category link from meta in string"
+msgstr "Отключить ссылку на рубрику в мета секции"
+
+#: ../admin/option/option.php:1328
+msgid "Disable date"
+msgstr "Отключить дату"
+
+#: ../admin/option/option.php:1329
+msgid "Disable date from meta in string"
+msgstr "Отключить дату в мета секции"
+
+#: ../admin/option/option.php:1335
+msgid "Disable comments count"
+msgstr "Отключить ссылку на кол-во комментариев"
+
+#: ../admin/option/option.php:1336
+msgid "Disable comments count from meta in string"
+msgstr "Отключить кол-во комментариев в мета секции"
+
+#: ../admin/option/option.php:1342
+msgid "Font Awesome icons fallback"
+msgstr "Подгружать Font Awesome шрифт с темы"
+
+#: ../admin/option/option.php:1343
+msgid ""
+"Load Font Awesome icons from theme. Enable only if CDN of Font Awesome icons "
+"falls"
+msgstr ""
+"По умолчанию Font Awesome шрифт грузится с CDN, но иногда он недоступен, "
+"поэтому здесь вы можете включить загрузку шрифта с темы"
+
+#: ../admin/option/option.php:1350
+msgid "Global disabling parts on single pages"
+msgstr "Отключение частей на странице поста"
+
+#: ../admin/option/option.php:1355
+msgid "Disable breadcrumbs"
+msgstr "Отключить хлебные крошки"
+
+#: ../admin/option/option.php:1356
+msgid "Disable breadcrumbs from pages"
+msgstr "Отключить хлебные крошки с страницы"
+
+#: ../admin/option/option.php:1363
+msgid "Disable share buttons"
+msgstr "отключить share кнопки"
+
+#: ../admin/option/option.php:1364
+msgid "Disable share buttons after content from pages"
+msgstr "Отключить share кнопки с конца страницы"
+
+#: ../admin/option/option.php:1370
+msgid "Disable previous and next"
+msgstr "отключить предыдущие и следующие кнопки"
+
+#: ../admin/option/option.php:1371
+msgid "Disable previous and next post buttons"
+msgstr "Отключить кнопки на пред. и след. записи"
+
+#: ../admin/option/option.php:1377
+msgid "Disable tags"
+msgstr "отключить теги"
+
+#: ../admin/option/option.php:1378
+msgid "Disable tags after content from pages"
+msgstr "Отключить секцию тегов"
+
+#: ../admin/option/option.php:1385
+msgid "Disable author box"
+msgstr "отключить блок автора"
+
+#: ../admin/option/option.php:1386
+msgid "Disable author box after content from pages"
+msgstr "Отключить блок автора"
+
+#: ../admin/option/option.php:1392
+msgid "Disable relative posts"
+msgstr "Отключить похожие записи"
+
+#: ../admin/option/option.php:1393
+msgid "Disable relative posts box after content from pages"
+msgstr "Отключить похожие записи"
+
+#: ../admin/option/option.php:1399
+msgid "Disable top thumbnail on single page"
+msgstr "Отключение верхнего топ изображения на странице"
+
+#: ../admin/option/option.php:1405
+msgid "Disable standart comments"
+msgstr "Отключить стандартные комментарии"
+
+#: ../admin/option/option.php:1411
+msgid "Insert comments widget code"
+msgstr "Вставьте код виджета комментариев"
+
+#: ../admin/option/option.php:1412
+msgid "You can set here comments widget, for example, from disqus"
+msgstr "Здесь вы можете добавить код виджета комментариев, например, с disqus"
+
+#: ../admin/option/option.php:1422
+msgid "Ads Options"
+msgstr "Опции Рекламы"
+
+#: ../admin/option/option.php:1428
+msgid "Ads code in header and footer"
+msgstr "Код рекламы в хедере и футере"
+
+#: ../admin/option/option.php:1433 ../admin/option/option.php:1442
+#: ../admin/option/option.php:1451 ../admin/option/option.php:1466
+#: ../admin/option/option.php:1475 ../admin/option/option.php:1491
+msgid "Insert custom ads code"
+msgstr "Введите код здесь"
+
+#: ../admin/option/option.php:1434
+msgid ""
+"This banner code will be visible in header. Width of this zone depends on "
+"style of header (You can choose it in Main Option tab)"
+msgstr ""
+"Этот код для баннера который отображается в хедере. Ширина баннера зависит "
+"от стиля хедера"
+
+#: ../admin/option/option.php:1443
+msgid "This banner code will be visible before header."
+msgstr ""
+"Этот код баннера будет отображен в самом верху страницы (перед хедером)"
+
+#: ../admin/option/option.php:1452
+msgid "This banner code will be visible before footer"
+msgstr "Этот код баннера будет отображен в перед футером"
+
+#: ../admin/option/option.php:1461
+msgid "Global code for single page"
+msgstr "Код для постов"
+
+#: ../admin/option/option.php:1467
+msgid "This code will be visible after title"
+msgstr "Этот код баннера будет отображен после заголовка статьи"
+
+#: ../admin/option/option.php:1476
+msgid "This code will be visible before post content"
+msgstr "Этот код баннера будет отображен перед записью"
+
+#: ../admin/option/option.php:1484
+msgid "Tips"
+msgstr "Полезное"
+
+#: ../admin/option/option.php:1485
+msgid ""
+"You can wrap your code with &lt;div class=&quot;right_code&quot;&gt;your ads "
+"code&lt;/div&gt; if you want to add right float or &lt;div class=&quot;"
+"left_code&quot;&gt;your ads code&lt;/div&gt; for left float. Please, use "
+"square ads with width 250-300px for floated ads."
+msgstr ""
+"Вы можете обернуть код вашей рекламы &lt;div class=&quot;right_code&quot;&gt;"
+"your ads code&lt;/div&gt;  если хотите, чтобы баннер справа и обтекался "
+"текстом слева или же &lt;div class=&quot;left_code&quot;&gt;your ads "
+"code&lt;/div&gt; чтобы баннер находился слева. Рекомендую использовать "
+"квадратные области для этой зоны 250-300 px шириной"
+
+#: ../admin/option/option.php:1492
+msgid "This code will be visible after post"
+msgstr "Этот код баннера будет отображен в конце записи"
+
+#: ../admin/option/option.php:1500 ../admin/option/option.php:1508
+msgid "Insert custom ads code for shortcode"
+msgstr "Введите кастомный код рекламы для шорткода"
+
+#: ../admin/option/option.php:1501
+msgid ""
+"You can insert this code in any place of content by shortcode [wpsm_ads1]"
+msgstr "Вы можете вставить код в любое место страницы шорткодом [wpsm_ads1]"
+
+#: ../admin/option/option.php:1509
+msgid ""
+"You can insert this code in any place of content by shortcode [wpsm_ads2]"
+msgstr "Вы можете вставить код в любое место страницы шорткодом [wpsm_ads2]"
+
+#: ../admin/option/option.php:1517
+msgid "AdBlock notify"
+msgstr "AdBlock уведомление"
+
+#: ../admin/option/option.php:1522
+msgid "Enable Adblock notify?"
+msgstr "Включить уведомления Adblock?"
+
+#: ../admin/option/option.php:1523
+msgid ""
+"If enabled, site visitors can see notice in place of your ads if they have "
+"installed ads blocker"
+msgstr ""
+"Если включить, посетители увидят уведомление в месте рекламы, если у них в "
+"браузере установлен блокиратор рекламы"
+
+#: ../admin/option/option.php:1529
+msgid "Set notice"
+msgstr "Установить уведомление"
+
+#: ../admin/option/option.php:1530
+msgid "Set notice or leave default"
+msgstr ""
+"Установить уведомление или оставьте пустым, чтобы использовать дефолтное"
+
+#: ../admin/option/option.php:1541
+msgid "Background settings"
+msgstr "Настройки фона"
+
+#: ../admin/option/option.php:1639
+msgid "Global branded pages options"
+msgstr "Глобальные настройки брендированных страниц"
+
+#: ../admin/option/option.php:1682
+msgid "Global branded banner"
+msgstr "Глобальный брендированный баннер"
+
+#: ../admin/option/option.php:1713
+msgid "Reviews/Affiliate"
+msgstr "Обзоры/Affiliate"
+
+#: ../admin/option/option.php:1719
+msgid "Reviews, links, rating"
+msgstr "Обзоры, ссылки, рейтинги"
+
+#: ../admin/option/option.php:1724
+msgid "Type of user ratings"
+msgstr "Тип юзер рейтингов"
+
+#: ../admin/option/option.php:1728
+msgid "simple rating, no criterias"
+msgstr "простые рейтинги на основе звезд"
+
+#: ../admin/option/option.php:1732
+msgid "full review with criterias and pros, cons"
+msgstr "полный обзор с критериями"
+
+#: ../admin/option/option.php:1736 ../shortcodes/tinyMCE/includes/quote.php:62
+msgid "none"
+msgstr "никто"
+
+#: ../admin/option/option.php:1744
+msgid "How to calculate total score of review"
+msgstr "Как высчитывать общий итог обзора"
+
+#: ../admin/option/option.php:1748
+msgid "based on editor's score"
+msgstr "основан на итоге редактора"
+
+#: ../admin/option/option.php:1752
+msgid "average (editor's and user's)"
+msgstr "Среднее значение (редактор и пользователи)"
+
+#: ../admin/option/option.php:1764
+msgid "Allow to rate posts"
+msgstr "Позволить ставить рейтинги"
+
+#: ../admin/option/option.php:1765
+msgid "Who can rate review posts?"
+msgstr "Кто может ставить рейтинги?"
+
+#: ../admin/option/option.php:1769
+msgid "guests"
+msgstr "гости"
+
+#: ../admin/option/option.php:1773
+msgid "users"
+msgstr "пользователи"
+
+#: ../admin/option/option.php:1777
+msgid "guests and users"
+msgstr "гости и пользователи"
+
+#: ../admin/option/option.php:1785
+msgid "Color type of review box"
+msgstr "Тип дизайна блока обзора"
+
+#: ../admin/option/option.php:1789
+msgid "one color"
+msgstr "Одноцветный"
+
+#: ../admin/option/option.php:1793
+msgid "multicolor"
+msgstr "Мультиколор"
+
+#: ../admin/option/option.php:1801
+msgid "Default color for editor's review box and total score"
+msgstr "Дефолтный цвет для блока обзора автора"
+
+#: ../admin/option/option.php:1802
+msgid "Choose the background color or leave blank for default red color"
+msgstr "Выбрать цвет фона или оставить пустым для цвета по умолчанию"
+
+#: ../admin/option/option.php:1812
+msgid "Default color for user review box and user stars"
+msgstr "Дефолтный цвет для блока пользовательского обзора"
+
+#: ../admin/option/option.php:1813
+msgid "Choose the background color or leave blank for default blue color"
+msgstr "Выбрать цвет фона или оставить пустым для синего цвета по умолчанию"
+
+#: ../admin/option/option.php:1823
+msgid "Replace colors by category color"
+msgstr "Заменить цвета на цвет рубрики"
+
+#: ../admin/option/option.php:1824
+msgid ""
+"Do you want to replace default colors of review box with custom color of "
+"category?"
+msgstr ""
+"Вы хотите заменять дефолтный цвет блока обзора на кастомный цвет рубрики?"
+
+#: ../admin/option/option.php:1834
+msgid "Color for stars in comments (default is blue)"
+msgstr "Цвет звездочек в комментариях (по умолчанию, синий)"
+
+#: ../admin/option/option.php:1844
+msgid "Set symbol of main currency (example, $)"
+msgstr "Установить символ главной валюты (например, $)"
+
+#: ../admin/option/option.php:1849
+msgid "Open links in new tab?"
+msgstr "Открывать ссылки в новой вкладке?"
+
+#: ../admin/option/option.php:1850
+msgid "Open links in offer boxes in new tab?"
+msgstr "Открывать ссылки в оффер блоке в новом окне?"
+
+#: ../admin/option/option.php:1856
+msgid "Add tracking?"
+msgstr "Добавить отслеживание?"
+
+#: ../admin/option/option.php:1857
+msgid ""
+"Add tracking on offer buttons? It works with google Analytics. Reports is "
+"under \\\"Offer\\\" category in analytics website"
+msgstr ""
+"Добавить отслеживание на кнопки офферов? Работает только с гугл аналитикс. "
+"Репорты вы найдете под рубрикой Offer в аналитиксе"
+
+#: ../admin/option/option.php:1863
+msgid "Add nofollow?"
+msgstr "Добавить nofollow?"
+
+#: ../admin/option/option.php:1864
+msgid "Add to all links in offer boxes rel nofollow?"
+msgstr "Добавить ко всем ссылкам оффер блока nofollow?"
+
+#: ../admin/option/option.php:1870 ../admin/option/option.php:1883
+msgid "Set text for button"
+msgstr "Установить текст для кнопки"
+
+#: ../admin/option/option.php:1871
+msgid ""
+"It will be used on button for product reviews, top rating pages instead BUY "
+"THIS ITEM"
+msgstr ""
+"Текст будет использован на кнопках для обзоров, топ рейтингах вместо КУПИТЬ"
+
+#: ../admin/option/option.php:1877
+msgid "Set text for coupon mask"
+msgstr "Установить текст для маски купона"
+
+#: ../admin/option/option.php:1878
+msgid "It will be used on coupon mask instead REVEAL COUPON"
+msgstr "Текст будет использован на купон маске вместо ОТКРЫТЬ КОД"
+
+#: ../admin/option/option.php:1884
+msgid ""
+"It will be used on button for products with list of links instead CHOOSE "
+"OFFER."
+msgstr ""
+"Текст будет использован на кнопках для продуктов с списком ссылок вместо "
+"ВЫБРАТЬ ОФФЕР"
+
+#: ../admin/option/option.php:1890
+msgid "Set text for full review link"
+msgstr "Введите текст для ссылки на полный обзор"
+
+#: ../admin/option/option.php:1891
+msgid "It will be used top review pages instead READ FULL REVIEW"
+msgstr ""
+"Текст будет использован на странице топ обзоров вместо ЧИТАТЬ ПОЛНЫЙ ОБЗОР"
+
+#: ../admin/option/option.php:1899
+msgid "EasyDigitalDownload"
+msgstr "EasyDigitalDownload"
+
+#: ../admin/option/option.php:1905
+msgid "Options for plugin Easydigitaldownload"
+msgstr "Опции плагина EasyDigitalDownload"
+
+#: ../admin/option/option.php:1910
+msgid "Select Easydigitaldownload Layout"
+msgstr "Выбрать EasyDigitalDownload макет"
+
+#: ../admin/option/option.php:1911
+msgid ""
+"Select what layout you want to use for archives of easydigitaldownload "
+"plugin pages."
+msgstr "Выбрать макет для архивов плагина"
+
+#: ../admin/option/option.php:1933
+msgid "Enable rating?"
+msgstr "Включить рейтинги?"
+
+#: ../admin/option/option.php:1934
+msgid "Enable built-in user rating system?"
+msgstr "Включить встроенную систему рейтингов?"
+
+#: ../admin/option/option.php:1940
+msgid "Enable counter for sales and downloads?"
+msgstr "Включить счетчик покупок и загрузок?"
+
+#: ../admin/option/option.php:1941
+msgid "Enable counter in widget download details?"
+msgstr "Включить счетчик в виджете?"
+
+#: ../admin/source.php:113 ../inc/widgets/posts_list.php:184
+msgid "all"
+msgstr "все"
+
+#: ../admin/source.php:118 ../inc/widgets/posts_list.php:185
+msgid "regular"
+msgstr "Обычный"
+
+#: ../admin/source.php:122 ../inc/widgets/posts_list.php:186
+msgid "video"
+msgstr "Видео"
+
+#: ../admin/source.php:126 ../inc/widgets/posts_list.php:187
+msgid "gallery"
+msgstr "Галерея"
+
+#: ../admin/source.php:130 ../inc/widgets/posts_list.php:188
+msgid "review"
+msgstr "Обзор"
+
+#: ../admin/source.php:134 ../inc/widgets/posts_list.php:189
+msgid "music"
+msgstr "Музыка"
+
+#: ../admin/source.php:145
+msgid "above line"
+msgstr "вверху линии"
+
+#: ../admin/source.php:151
+msgid "left position inside line"
+msgstr "левая позиция внутри линии"
+
+#: ../admin/source.php:156
+msgid "center position inside line"
+msgstr "центральная позиция внутри линии"
+
+#: ../admin/source.php:410
+msgid "You can use shortcode to insert this top list to another page"
+msgstr ""
+"Вы можете использовать шорткод чтобы вставить этот топ список в другую "
+"страницу"
+
+#: ../admin/source.php:410
+msgid ""
+"Delete full_width attribute if you insert shortcode in page with sidebar"
+msgstr ""
+"Удалите full_width аттрибут, если вы вставляете шорткод на страницу с "
+"сайдбаром"
+
+#: ../archive-download.php:7
+msgid "Downloads"
+msgstr "Загрузки"
+
+#: ../archive-download.php:106 ../archive.php:64 ../category.php:37
+#: ../taxonomy-download_category.php:104 ../taxonomy-download_tag.php:104
+#: ../template-affarchivegrid.php:163 ../template-affarchivelist.php:150
+#: ../template-fullwidthgrid.php:68
+msgid "Sorry. No posts in this category yet"
+msgstr "Извините. Еще нет записей в этой рубрике"
+
+#: ../archive.php:15 ../category.php:10 ../taxonomy-download_category.php:7
+msgid "Category:"
+msgstr "Рубрика:"
+
+#: ../archive.php:17 ../taxonomy-download_tag.php:7
+msgid "Tag:"
+msgstr "Тег:"
+
+#: ../archive.php:20
+msgid "Archive:"
+msgstr "Архив:"
+
+#: ../archive.php:22 ../archive.php:24
+msgid "Browsing Archive"
+msgstr "Просмотр архива"
+
+#: ../archive.php:42
+msgid "Browsing All Posts By"
+msgstr "Просмотр всех записей по"
+
+#: ../catalogue_constructor.php:106
+msgid "Read more +"
+msgstr "Читать далее"
+
+#: ../catalogue_constructor.php:113 ../functions/review_functions.php:450
+#: ../inc/widgets/featured_sidebar.php:78 ../inc/widgets/latest_video.php:59
+#: ../inc/widgets/posts_list.php:114 ../template-toprating.php:178
+msgid "No posts for this criteria."
+msgstr "Нет записей по этому критерию"
+
+#: ../class-tgm-plugin-activation.php:196 ../functions.php:1373
+msgid "Install Required Plugins"
+msgstr "Установить нужные плагины"
+
+#: ../class-tgm-plugin-activation.php:197 ../functions.php:1374
+msgid "Install Plugins"
+msgstr "Установить плагины"
+
+#: ../class-tgm-plugin-activation.php:198 ../functions.php:1375
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Устанавовка Плагина:  %s"
+
+#: ../class-tgm-plugin-activation.php:199
+msgid "Something went wrong."
+msgstr "Что-то пошло не так"
+
+#: ../class-tgm-plugin-activation.php:200 ../functions.php:1377
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Эта тема требует следующий плагин: %1$s."
+msgstr[1] "Эта тема требует следующие плагины: %1$s."
+
+#: ../class-tgm-plugin-activation.php:201 ../functions.php:1378
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Эта тема рекоммендует установить плагин: %1$s."
+msgstr[1] "Эта тема рекоммендует установить плагины: %1$s."
+
+#: ../class-tgm-plugin-activation.php:202 ../functions.php:1379
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] "У вас нет доступов для установки %s плагина."
+msgstr[1] "У вас нет доступов для установки %s плагинов."
+
+#: ../class-tgm-plugin-activation.php:203 ../functions.php:1380
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Следующий обязательный плагин не активен сейчас: %1$s."
+msgstr[1] "Следующие обязательные плагины не активны сейчас: %1$s."
+
+#: ../class-tgm-plugin-activation.php:204 ../functions.php:1381
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Следующий рекоммендуемый плагин не активен сейчас: %1$s."
+msgstr[1] "Следующие рекоммендуемые плагины не активны сейчас: %1$s."
+
+#: ../class-tgm-plugin-activation.php:205 ../functions.php:1382
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] "У вас нет доступов для активации %s плагина."
+msgstr[1] "У вас нет доступов для активации %s плагинов."
+
+#: ../class-tgm-plugin-activation.php:206 ../functions.php:1383
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"Следующий плагин нуждается в обновлении для нормальной работы : %1$s."
+msgstr[1] ""
+"Следующие плагины нуждаются в обновлении для нормальной работы : %1$s."
+
+#: ../class-tgm-plugin-activation.php:207 ../functions.php:1384
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] "У вас нет доступов для обновления %s плагина."
+msgstr[1] "У вас нет доступов для обновления %s плагинов."
+
+#: ../class-tgm-plugin-activation.php:208 ../functions.php:1385
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Начать установку плагина"
+msgstr[1] "Начать установку плагинов"
+
+#: ../class-tgm-plugin-activation.php:209 ../functions.php:1386
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Начать активацию плагина"
+msgstr[1] "Начать активацию плагинов"
+
+#: ../class-tgm-plugin-activation.php:210 ../functions.php:1387
+msgid "Return to Required Plugins Installer"
+msgstr "Вернуться к установщику плагинов"
+
+#: ../class-tgm-plugin-activation.php:211
+msgid "Return to the dashboard"
+msgstr "Вернуться к панели"
+
+#: ../class-tgm-plugin-activation.php:212
+#: ../class-tgm-plugin-activation.php:1948 ../functions.php:1388
+msgid "Plugin activated successfully."
+msgstr "Плагин активирован успешно."
+
+#: ../class-tgm-plugin-activation.php:213
+msgid "The following plugin was activated successfully:"
+msgstr "Следующий плагин был успешно активирован"
+
+#: ../class-tgm-plugin-activation.php:214
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Все плагины установлены и активированы успешно. %1$s"
+
+#: ../class-tgm-plugin-activation.php:215
+msgid "Dismiss this notice"
+msgstr "Отключить это уведомление"
+
+#: ../class-tgm-plugin-activation.php:544
+#: ../class-tgm-plugin-activation.php:2165
+msgid "Return to the Dashboard"
+msgstr "Вернуться к панели"
+
+#: ../class-tgm-plugin-activation.php:1174
+msgid "Private Repository"
+msgstr "Приватная область"
+
+#: ../class-tgm-plugin-activation.php:1177
+msgid "Pre-Packaged"
+msgstr "Предустановлено"
+
+#: ../class-tgm-plugin-activation.php:1182
+msgid "WordPress Repository"
+msgstr "Wordpress репозиторий"
+
+#: ../class-tgm-plugin-activation.php:1185
+msgid "Required"
+msgstr "Обязательно"
+
+#: ../class-tgm-plugin-activation.php:1185
+msgid "Recommended"
+msgstr "Рекоммендуемо"
+
+#: ../class-tgm-plugin-activation.php:1188
+msgid "Not Installed"
+msgstr "Не установлено"
+
+#: ../class-tgm-plugin-activation.php:1190
+msgid "Installed But Not Activated"
+msgstr "%1$s установлен и активирован успешно"
+
+#: ../class-tgm-plugin-activation.php:1290
+#: ../class-tgm-plugin-activation.php:1398
+msgid "Install"
+msgstr "Установить"
+
+#: ../class-tgm-plugin-activation.php:1312
+#: ../class-tgm-plugin-activation.php:1399
+msgid "Activate"
+msgstr "Активировать"
+
+#: ../class-tgm-plugin-activation.php:1361
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+"Нет плагинов для установки. <a href=\"%1$s\" title=\"Return to the Dashboard"
+"\">Вернуться к приборной панели</a>"
+
+#: ../class-tgm-plugin-activation.php:1377
+msgid "Plugin"
+msgstr "Плагин"
+
+#: ../class-tgm-plugin-activation.php:1378
+msgid "Source"
+msgstr "Источник"
+
+#: ../class-tgm-plugin-activation.php:1379
+#: ../shortcodes/tinyMCE/includes/box.php:59
+#: ../shortcodes/tinyMCE/includes/list.php:37
+msgid "Type"
+msgstr "Тип"
+
+#: ../class-tgm-plugin-activation.php:1380
+msgid "Status"
+msgstr "Статус"
+
+#: ../class-tgm-plugin-activation.php:1508
+msgid "No plugins are available to be installed at this time."
+msgstr "Нет плагинов для установки"
+
+#: ../class-tgm-plugin-activation.php:1616
+msgid "No plugins are available to be activated at this time."
+msgstr "Нет плагинов для активации"
+
+#: ../class-tgm-plugin-activation.php:1931
+msgid "Install package not available."
+msgstr "Установленый пакет не доступен"
+
+#: ../class-tgm-plugin-activation.php:1932
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr "Загрузка пакета с <span class=\"code\">%s</span>&#8230;"
+
+#: ../class-tgm-plugin-activation.php:1933
+msgid "Unpacking the package&#8230;"
+msgstr "Распаковка пакета&#8230;"
+
+#: ../class-tgm-plugin-activation.php:1934
+msgid "Installing the plugin&#8230;"
+msgstr "Установка плагина&#8230;"
+
+#: ../class-tgm-plugin-activation.php:1935
+msgid "Plugin install failed."
+msgstr "Установка плагина вызвала ошибку"
+
+#: ../class-tgm-plugin-activation.php:1936
+msgid "Plugin installed successfully."
+msgstr "Плагин установлен успешно"
+
+#: ../class-tgm-plugin-activation.php:1947
+msgid "Plugin activation failed."
+msgstr "Активация плагина прошла с ошибкой"
+
+#: ../class-tgm-plugin-activation.php:2061
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Установка и активация началась, этот процесс может длиться несколько минут"
+
+#: ../class-tgm-plugin-activation.php:2062
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s установлен и активирован успешно"
+
+#: ../class-tgm-plugin-activation.php:2062
+#: ../class-tgm-plugin-activation.php:2071
+msgid "Show Details"
+msgstr "Показать детали"
+
+#: ../class-tgm-plugin-activation.php:2062
+#: ../class-tgm-plugin-activation.php:2071
+msgid "Hide Details"
+msgstr "Скрыть детали"
+
+#: ../class-tgm-plugin-activation.php:2063
+msgid "All installations and activations have been completed."
+msgstr "Все установки и активации завершены"
+
+#: ../class-tgm-plugin-activation.php:2064
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка и активация плагина %1$s (%2$d/%3$d)"
+
+#: ../class-tgm-plugin-activation.php:2068
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr "Процесс установки начался, этот процесс может длиться несколько минут"
+
+#: ../class-tgm-plugin-activation.php:2069
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Ошибка возникоа во время установки %1$s: <strong>%2$s</strong>."
+
+#: ../class-tgm-plugin-activation.php:2070
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "Установка %1$s вызвала ошибку."
+
+#: ../class-tgm-plugin-activation.php:2071
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s установлено успешно"
+
+#: ../class-tgm-plugin-activation.php:2072
+msgid "All installations have been completed."
+msgstr "Все установки завершены"
+
+#: ../class-tgm-plugin-activation.php:2073
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка плагина %1$s (%2$d/%3$d)"
+
+#: ../comments.php:8
+msgid "No Comments"
+msgstr "Нет комментариев"
+
+#: ../comments.php:8
+msgid "1 Comment"
+msgstr "1 комментарий"
+
+#: ../comments.php:8 ../inc/widgets/tabs_widget.php:76
+#: ../inc/widgets/tabs_widget.php:87 ../inc/widgets/tabs_widget.php:183
+msgid "Comments"
+msgstr "Комментарии"
+
+#: ../comments.php:30
+msgid "Leave a reply"
+msgstr "Оставить отзыв"
+
+#: ../comments.php:31
+msgid "Cancel reply"
+msgstr "Отмена отзыва"
+
+#: ../comments.php:32
+msgid "Post comment"
+msgstr "Опубликовать"
+
+#: ../comments.php:39
+msgid "E-mail"
+msgstr "Е-меил"
+
+#: ../comments.php:42 ../functions/review_functions.php:1280
+msgid "Website"
+msgstr "Сайт"
+
+#: ../footer.php:9
+msgid ""
+"No widgets added. You can disable footer widget area in theme options - "
+"footer options"
+msgstr ""
+"Виджеты не добавлены. Вы можете отключить зону виджетов в футере в "
+"настройках темы - настройка футера"
+
+#: ../functions.php:83
+msgid "back"
+msgstr "назад"
+
+#: ../functions.php:90
+msgid "That's all"
+msgstr "Это все"
+
+#: ../functions.php:245
+msgid "Primary Menu"
+msgstr "Главное меню"
+
+#: ../functions.php:246
+msgid "Top Menu"
+msgstr "Топ меню"
+
+#: ../functions.php:452 ../single.php:188
+msgid "Editor's choice"
+msgstr "Выбор редактора"
+
+#: ../functions.php:776
+msgid "Edit"
+msgstr "Редактировать"
+
+#: ../functions.php:777
+msgid " Reply"
+msgstr "Ответить"
+
+#: ../functions.php:780
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s в %2$s"
+
+#: ../functions.php:781
+msgid "Comment awaiting for approval"
+msgstr "Комментарий на модерации"
+
+#: ../functions.php:827 ../functions.php:865
+msgid "Cat color"
+msgstr "Цвет категории"
+
+#: ../functions.php:835 ../functions.php:872
+msgid "Set category color. Note, this color will be used under white text"
+msgstr "Установить цвет рубрики. Желательно темных тонов"
+
+#: ../functions.php:839 ../functions.php:875
+msgid "Target url"
+msgstr "Ссылка цели"
+
+#: ../functions.php:842 ../functions.php:877
+msgid ""
+"Set category banner target url or left blank for display banner image "
+"without url"
+msgstr "Установить ссылку для баннера рубрики. Опционально"
+
+#: ../functions.php:846 ../functions.php:880
+msgid "Category banner image url"
+msgstr "Ссылка на изображение баннера"
+
+#: ../functions.php:849 ../functions.php:882
+msgid "Set url to image of banner"
+msgstr "Установить ссылку на изображение баннера"
+
+#: ../functions.php:916 ../functions.php:937
+msgid "Shop image"
+msgstr "Лого магазина"
+
+#: ../functions.php:920 ../functions.php:939
+msgid "Add url to default image of affiliate shop"
+msgstr "Добавить ссылку на изображение для аффилиат магазина"
+
+#: ../functions.php:1063
+msgid "Home"
+msgstr "Главная"
+
+#: ../functions.php:1064
+#, php-format
+msgid "Page %s"
+msgstr "Страница %s"
+
+#: ../functions.php:1065
+msgid "Error 404"
+msgstr "Ошибка 404"
+
+#: ../functions.php:1066
+#, php-format
+msgid "Search results - <b>%s</b>"
+msgstr "Результаты поиска - <b>%s</b>"
+
+#: ../functions.php:1067
+#, php-format
+msgid "Author archive: <b>%s</b>"
+msgstr "Архив автора: <b>%s</b>"
+
+#: ../functions.php:1068
+#, php-format
+msgid "Archive for <b>%s</b> year"
+msgstr "Архив для <b>%s</b> года"
+
+#: ../functions.php:1069
+#, php-format
+msgid "Archive for: <b>%s</b>"
+msgstr "Архив автора: <b>%s</b>"
+
+#: ../functions.php:1071
+#, php-format
+msgid "Attachment: %s"
+msgstr "Аттачмент: %s"
+
+#: ../functions.php:1072
+#, php-format
+msgid "Posts with tag: <b>%s</b>"
+msgstr "Записи с тегом: <b>%s</b>"
+
+#: ../functions.php:1073
+#, php-format
+msgid "%s from \"%s\" on tag: <b>%s</b>"
+msgstr "%s с \"%s\" на тег: <b>%s</b>"
+
+#: ../functions.php:1205
+msgid "Twitter Username"
+msgstr "Твиттер имя"
+
+#: ../functions.php:1206
+msgid "Facebook Username"
+msgstr "Facebook имя"
+
+#: ../functions.php:1207
+msgid "Google Plus Username"
+msgstr "Google Plus имя"
+
+#: ../functions.php:1208
+msgid "Tumblr Username"
+msgstr "Tumblr имя"
+
+#: ../functions.php:1209
+msgid "Instagram Username"
+msgstr "Instagram имя"
+
+#: ../functions.php:1210
+msgid "Vk.com Username"
+msgstr "Vk.com имя"
+
+#: ../functions.php:1211
+msgid "Youtube Username"
+msgstr "Youtube имя"
+
+#: ../functions.php:1376
+msgid "Something went wrong with the plugin API."
+msgstr "Что-то пошло не так с плагин API"
+
+#: ../functions.php:1389
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Все плагины установлены и активированы. %s"
+
+#: ../functions.php:1473 ../functions.php:1553
+msgid "back to menu"
+msgstr "вернуться к меню"
+
+#: ../functions/review_functions.php:79 ../functions/review_functions.php:131
+msgid "No Ratings Yet!"
+msgstr "Еще нет голосов!"
+
+#: ../functions/review_functions.php:83
+msgid "Be the first one!"
+msgstr "Будь первым!"
+
+#: ../functions/review_functions.php:102 ../functions/review_functions.php:108
+#: ../header.php:34
+msgid "Your Rating:"
+msgstr "Ваш рейтинг:"
+
+#: ../functions/review_functions.php:102 ../functions/review_functions.php:108
+#: ../functions/review_functions.php:115 ../functions/review_functions.php:117
+#: ../functions/review_functions.php:128
+msgid "votes"
+msgstr "голосов"
+
+#: ../functions/review_functions.php:113 ../functions/review_functions.php:115
+#: ../functions/review_functions.php:117 ../functions/review_functions.php:128
+#: ../functions/review_functions.php:131
+msgid "User Rating:"
+msgstr "Рейтинг:"
+
+#: ../functions/review_functions.php:131 ../functions/review_functions.php:665
+msgid "Add your review"
+msgstr "Добавить ваш обзор"
+
+#: ../functions/review_functions.php:151 ../functions/review_functions.php:157
+msgid "User rating"
+msgstr "Рейтинг"
+
+#: ../functions/review_functions.php:282
+#: ../functions/review_functions.php:1091
+msgid "Specification"
+msgstr "Спецификация"
+
+#: ../functions/review_functions.php:386 ../template-toprating.php:113
+msgid "Rank"
+msgstr "Ранг"
+
+#: ../functions/review_functions.php:387
+#: ../functions/review_functions.php:1090 ../template-toprating.php:114
+msgid "Product"
+msgstr "Продукт"
+
+#: ../functions/review_functions.php:389 ../template-toprating.php:116
+msgid "Rating"
+msgstr "Рейтинг"
+
+#: ../functions/review_functions.php:390
+#: ../shortcodes/tinyMCE/includes/box.php:61 ../template-toprating.php:117
+msgid "Info"
+msgstr "Инфо"
+
+#: ../functions/review_functions.php:437 ../functions/review_functions.php:439
+#: ../template-toprating.php:166 ../template-toprating.php:168
+msgid "Our score"
+msgstr "Наш итог"
+
+#: ../functions/review_functions.php:444
+#: ../mdf_templates/template/reviewlist/index.php:39
+#: ../template-toprating.php:173
+msgid "Read full review"
+msgstr "Читать обзор"
+
+#: ../functions/review_functions.php:594
+msgid "Total Score"
+msgstr "Общий итог"
+
+#: ../functions/review_functions.php:612
+msgid "Editor's score"
+msgstr "Итог редактора"
+
+#: ../functions/review_functions.php:627
+msgid "User's score"
+msgstr "Итог пользователей:"
+
+#: ../functions/review_functions.php:665
+msgid "Read reviews and comments"
+msgstr "Читать обзоры и комментарии"
+
+#: ../functions/review_functions.php:807 ../functions/review_functions.php:878
+#: ../functions/review_functions.php:1015
+#: ../mdf_templates/template/offer/index.php:78
+#: ../shortcodes/shortcodes.php:1049 ../shortcodes/shortcodes.php:1271
+#: ../template-affarchivegrid.php:130 ../template-affarchivelist.php:117
+msgid "days left"
+msgstr "осталось дней"
+
+#: ../functions/review_functions.php:811 ../functions/review_functions.php:882
+#: ../functions/review_functions.php:1019
+#: ../mdf_templates/template/offer/index.php:82
+#: ../shortcodes/shortcodes.php:1053 ../shortcodes/shortcodes.php:1275
+#: ../template-affarchivegrid.php:134 ../template-affarchivelist.php:121
+msgid "Last day"
+msgstr "Последний день"
+
+#: ../functions/review_functions.php:815 ../functions/review_functions.php:886
+#: ../functions/review_functions.php:1023
+#: ../mdf_templates/template/offer/index.php:86
+#: ../shortcodes/shortcodes.php:1057 ../shortcodes/shortcodes.php:1279
+#: ../template-affarchivegrid.php:138 ../template-affarchivelist.php:125
+msgid "Coupon is Expired"
+msgstr "Купон просрочен"
+
+#: ../functions/review_functions.php:820 ../functions/review_functions.php:892
+#: ../functions/review_functions.php:1028
+#: ../functions/review_functions.php:1083
+#: ../functions/review_functions.php:1200
+#: ../functions/review_functions.php:1215
+#: ../mdf_templates/template/offer/index.php:91
+#: ../shortcodes/shortcodes.php:1067 ../shortcodes/shortcodes.php:1289
+#: ../template-affarchivegrid.php:143 ../template-affarchivelist.php:130
+msgid "Buy this item"
+msgstr "Купить"
+
+#: ../functions/review_functions.php:826
+#: ../functions/review_functions.php:1034 ../shortcodes/shortcodes.php:1088
+#: ../shortcodes/shortcodes.php:1310 ../template-affarchivegrid.php:152
+#: ../template-affarchivelist.php:137
+msgid "Reveal coupon"
+msgstr "Показать код"
+
+#: ../functions/review_functions.php:937
+msgid "Price start from "
+msgstr "Цена с"
+
+#: ../functions/review_functions.php:939
+msgid "Choose best offer"
+msgstr "Выбрать лучшее предложение"
+
+#: ../functions/review_functions.php:978
+#: ../mdf_templates/template/offer/index.php:52
+#: ../shortcodes/shortcodes.php:1234 ../template-affarchivegrid.php:103
+#: ../template-affarchivelist.php:86
+msgid "Read review"
+msgstr "Читать обзор"
+
+#: ../functions/review_functions.php:1092
+msgid "Photos"
+msgstr "Фото"
+
+#: ../functions/review_functions.php:1093
+msgid "Deals"
+msgstr "Предложения"
+
+#: ../functions/review_functions.php:1118
+#: ../functions/review_functions.php:1234
+msgid "Prices"
+msgstr "Цены"
+
+#: ../functions/review_functions.php:1209
+msgid "Choose offer"
+msgstr "Выбрать"
+
+#: ../functions/review_functions.php:1257 ../inc/parts/query_type2.php:47
+msgid "READ MORE  +"
+msgstr "Читать далее"
+
+#: ../functions/review_functions.php:1268
+msgid "Sorry, only get method allowed"
+msgstr "Извините, только get метод разрешен"
+
+#: ../functions/review_functions.php:1277
+msgid "Here is your coupon code"
+msgstr "Вот ваш код купона"
+
+#: ../functions/review_functions.php:1278
+msgid "Code is copied"
+msgstr "Код скопирован"
+
+#: ../functions/review_functions.php:1280
+msgid "Go to"
+msgstr "Перейдите на"
+
+#: ../functions/review_functions.php:1280
+msgid "and use this Offer."
+msgstr "и используйте этот оффер"
+
+#: ../functions/review_functions.php:1280
+msgid "Or check your new window for opened website"
+msgstr "Или проверьте новое открытое окно"
+
+#: ../functions/review_functions.php:1283
+msgid "Offer does not exists"
+msgstr "Оффер не существует"
+
+#: ../functions/sidebar_functions.php:13
+msgid "Sidebar Area"
+msgstr "Сайдбар зона"
+
+#: ../functions/sidebar_functions.php:21
+msgid "Footer 1"
+msgstr "Футер 1"
+
+#: ../functions/sidebar_functions.php:29
+msgid "Footer 2"
+msgstr "Футер 2"
+
+#: ../functions/sidebar_functions.php:37
+msgid "Footer 3"
+msgstr "Футер 3"
+
+#: ../functions/sidebar_functions.php:45
+msgid "Ecwid widget"
+msgstr "Ecwid виджет"
+
+#: ../functions/sidebar_functions.php:165
+msgid "Welcome"
+msgstr "Добро пожаловать"
+
+#: ../functions/sidebar_functions.php:168
+msgid "Dashboard"
+msgstr "Панель инструментов"
+
+#: ../functions/sidebar_functions.php:169
+msgid "Your Profile"
+msgstr "Ваш профиль"
+
+#: ../functions/sidebar_functions.php:170
+msgid "Logout"
+msgstr "Выйти"
+
+#: ../functions/sidebar_functions.php:178
+msgid "Username"
+msgstr "Имя"
+
+#: ../functions/sidebar_functions.php:179
+msgid "Password"
+msgstr "Пароль"
+
+#: ../functions/sidebar_functions.php:180
+msgid "Log in"
+msgstr "Войти"
+
+#: ../functions/sidebar_functions.php:181
+msgid "Remember Me"
+msgstr "Запомнить меня"
+
+#: ../functions/sidebar_functions.php:186
+msgid "Lost your password?"
+msgstr "Потеряли пароль?"
+
+#: ../functions/user_review_functions.php:21
+msgid "PROS"
+msgstr "Позитив:"
+
+#: ../functions/user_review_functions.php:21
+msgid "CONS"
+msgstr "Негатив:"
+
+#: ../functions/user_review_functions.php:240
+msgid "Rated"
+msgstr "Оценка"
+
+#: ../functions/user_review_functions.php:240
+msgid "out of"
+msgstr "из"
+
+#: ../functions/user_review_functions.php:249
+#: ../functions/user_review_functions.php:279
+msgid "+ PROS:"
+msgstr "Позитив:"
+
+#: ../functions/user_review_functions.php:252
+#: ../functions/user_review_functions.php:282
+msgid "- CONS:"
+msgstr "Негатив:"
+
+#: ../functions/user_review_functions.php:264
+msgid "User review"
+msgstr "Обзор пользователя"
+
+#: ../functions/woo_functions.php:61 ../header.php:64
+msgid "Cart"
+msgstr "Корзина"
+
+#: ../functions/woo_functions.php:72
+msgid "Choose your deal"
+msgstr "Выбрать предложение"
+
+#: ../functions/woo_functions.php:128
+msgid "See it"
+msgstr "Смотреть"
+
+#: ../inc/BFI_Thumb.php:145
+msgid ""
+"The server does not have ImageMagick or GD installed and/or enabled! Any of "
+"these libraries are required for WordPress to be able to resize images. "
+"Please contact your server administrator to enable this before continuing."
+msgstr "Сервер не имеет расширения  ImageMagick или GD. "
+
+#: ../inc/BFI_Thumb.php:273
+msgid "Image rotate failed."
+msgstr "Ошибка ротации изображения"
+
+#: ../inc/BFI_Thumb.php:296
+msgid "Image opacity change failed."
+msgstr "Ошибка изменения прозрачности"
+
+#: ../inc/BFI_Thumb.php:383
+msgid "Image color change failed."
+msgstr "Ошибка изменения цвета"
+
+#: ../inc/BFI_Thumb.php:400
+msgid "Image grayscale failed."
+msgstr "Ошибка изменения на монохромное изображение"
+
+#: ../inc/BFI_Thumb.php:417
+msgid "Image negate failed."
+msgstr "Ошибка негативности изображения"
+
+#: ../inc/page_areas/grid-posts-block.php:71 ../template-fullwidthgrid.php:78
+msgid "More posts"
+msgstr "Еще записи"
+
+#: ../inc/page_areas/slider-block.php:46 ../inc/page_areas/slider-block.php:61
+#: ../inc/parts/featured.php:45
+msgid "Read more"
+msgstr "Читать далее"
+
+#: ../inc/page_areas/tabbed-block.php:77
+#: ../inc/page_areas/tabbed-block.php:115
+#: ../inc/page_areas/tabbed-block.php:153
+#: ../inc/page_areas/tabbed-block.php:191
+msgid "Read more from"
+msgstr "Читать далее с"
+
+#: ../inc/page_areas/woocommerce-block.php:66
+msgid "Sale!"
+msgstr "Скидка!"
+
+#: ../inc/parts/related_posts.php:17
+msgid "Related Articles"
+msgstr "Похожие статьи"
+
+#: ../inc/widgets/facebook_widget.php:19
+msgid "Widget that displays facebook widget. Use only in sidebar!"
+msgstr "Виджет который отображает FB виджет. Использовать только в сайдбаре"
+
+#: ../inc/widgets/facebook_widget.php:25
+msgid "ReHub: Facebook widget"
+msgstr "ReHub: Facebook виджет"
+
+#: ../inc/widgets/facebook_widget.php:75
+msgid "Find us on Facebook"
+msgstr "Мы на Facebook"
+
+#: ../inc/widgets/facebook_widget.php:79
+#: ../inc/widgets/featured_sidebar.php:112
+#: ../inc/widgets/feedburner_widget.php:87 ../inc/widgets/latest_video.php:89
+#: ../inc/widgets/login_widget.php:75 ../inc/widgets/posts_list.php:150
+#: ../inc/widgets/related_reviews.php:118
+#: ../inc/widgets/social_link_widget.php:73
+#: ../inc/widgets/sticky_scroll.php:79
+msgid "Title of widget:"
+msgstr "Заголовок:"
+
+#: ../inc/widgets/facebook_widget.php:84
+msgid "Page Url:"
+msgstr "Ссылка на страницу:"
+
+#: ../inc/widgets/facebook_widget.php:88 ../inc/widgets/posts_list.php:193
+#: ../inc/widgets/tabs_widget.php:189
+msgid "Dark Skin ?"
+msgstr "Темный скин?"
+
+#: ../inc/widgets/featured_sidebar.php:19
+msgid ""
+"Widget that displays custom featured slider of posts. Use only in sidebar!"
+msgstr "Виджет который отображает избранные записи."
+
+#: ../inc/widgets/featured_sidebar.php:25
+msgid "ReHub: Featured Slider"
+msgstr "ReHub: Слайдер избранных постов"
+
+#: ../inc/widgets/featured_sidebar.php:67
+msgid "SCORE"
+msgstr "Значение"
+
+#: ../inc/widgets/featured_sidebar.php:107
+#: ../shortcodes/tinyMCE/includes/price.php:82
+msgid "Featured"
+msgstr "Избранное"
+
+#: ../inc/widgets/featured_sidebar.php:117 ../inc/widgets/posts_list.php:177
+#: ../inc/widgets/related_reviews.php:122
+msgid "Number of posts to show:"
+msgstr "Чисто постов для отображения:"
+
+#: ../inc/widgets/featured_sidebar.php:122
+msgid "Slider based on:"
+msgstr "Слайдер основан на:"
+
+#: ../inc/widgets/featured_sidebar.php:124
+msgid "Featured posts"
+msgstr "Избранные записи"
+
+#: ../inc/widgets/featured_sidebar.php:125
+msgid "Tag"
+msgstr "Тег:"
+
+#: ../inc/widgets/featured_sidebar.php:129
+msgid "If you select slider based on tag, enter tag slug in field below "
+msgstr ""
+"Если вы выбираете слайдер основаный на теге, введите название тега выше"
+
+#: ../inc/widgets/featured_sidebar.php:132
+msgid "Enter tag slug:"
+msgstr "Ввести название тега:"
+
+#: ../inc/widgets/feedburner_widget.php:19
+msgid ""
+"Widget that displays subscribtion form of feedburner. Use only in sidebar!"
+msgstr "Виджет который отображает подписную форму фидбернера."
+
+#: ../inc/widgets/feedburner_widget.php:25
+msgid "ReHub: Feedburner Email form"
+msgstr "ReHub: Feedburner Email форма"
+
+#: ../inc/widgets/feedburner_widget.php:48
+msgid "Enter e-mail address"
+msgstr "Введите e-mail"
+
+#: ../inc/widgets/feedburner_widget.php:49
+msgid "GO"
+msgstr "Вперед"
+
+#: ../inc/widgets/feedburner_widget.php:83
+msgid "Subscribe to NEWSLETTER"
+msgstr "Подписаться на обновления"
+
+#: ../inc/widgets/feedburner_widget.php:83
+msgid "Subscribe to our news by email."
+msgstr "Подписаться на наши новости по почте"
+
+#: ../inc/widgets/feedburner_widget.php:92
+msgid "Text under Email Input Field :"
+msgstr "Текст под Email полем"
+
+#: ../inc/widgets/feedburner_widget.php:96
+msgid "Feedburner ID:"
+msgstr "Feedburner ID:"
+
+#: ../inc/widgets/latest_video.php:19
+msgid "Widget that displays latest video post. Use only in sidebar!"
+msgstr "Виджет последнего видео поста."
+
+#: ../inc/widgets/latest_video.php:25
+msgid "ReHub: Latest Video post"
+msgstr "ReHub: Последнее видео"
+
+#: ../inc/widgets/latest_video.php:84
+msgid "Latest Video"
+msgstr "Последнее видео"
+
+#: ../inc/widgets/login_widget.php:19 ../inc/widgets/social_link_widget.php:19
+msgid "Widget that displays advanced meta area. Use only in sidebar!"
+msgstr "Виджет мета зоны"
+
+#: ../inc/widgets/login_widget.php:25
+msgid "ReHub: Login"
+msgstr "ReHub: Логин"
+
+#: ../inc/widgets/login_widget.php:71
+msgid "Login area"
+msgstr "Логин зона"
+
+#: ../inc/widgets/outer_ads.php:19
+msgid "Outcontent side ads widget."
+msgstr "Внеконтентный блок"
+
+#: ../inc/widgets/outer_ads.php:25
+msgid "ReHub: Side Out Ads widget"
+msgstr "ReHub: Внеконтентный Баннер "
+
+#: ../inc/widgets/outer_ads.php:84 ../inc/widgets/tabs_widget.php:149
+msgid "Use this widget only in sidebar area!"
+msgstr "Использовать только в сайдбаре!"
+
+#: ../inc/widgets/outer_ads.php:86
+msgid "Width of ads (without px):"
+msgstr "Ширина (без px):"
+
+#: ../inc/widgets/outer_ads.php:90
+msgid "Right Side ?"
+msgstr "В правой стороне?"
+
+#: ../inc/widgets/outer_ads.php:94
+msgid "Disable fixed position?"
+msgstr "Отключить фиксированую позицию"
+
+#: ../inc/widgets/outer_ads.php:98
+msgid "Margin from top of page (without px):"
+msgstr "Отступ сверху страницы (без px)"
+
+#: ../inc/widgets/outer_ads.php:101
+msgid ""
+"Note, if you disable fixed position, margin will be calculated from top of "
+"content area"
+msgstr ""
+"Если вы отключите фиксированую позицию, то отступ будет просчитан от края "
+"контентой области"
+
+#: ../inc/widgets/outer_ads.php:103 ../inc/widgets/sticky_scroll.php:83
+msgid "Text or Html code :"
+msgstr "Текст или HTML код:"
+
+#: ../inc/widgets/posts_list.php:19
+msgid "A widget that displays custom posts list. Use only in sidebar!"
+msgstr "Виджет отображения произвольных постов."
+
+#: ../inc/widgets/posts_list.php:25
+msgid "ReHub: Posts List"
+msgstr "ReHub: список записей"
+
+#: ../inc/widgets/posts_list.php:145 ../index.php:13
+msgid "Latest Posts"
+msgstr "Последние записи"
+
+#: ../inc/widgets/posts_list.php:155
+msgid "Filter by Category:"
+msgstr "Фильтр по рубрике:"
+
+#: ../inc/widgets/posts_list.php:157
+msgid "All categories"
+msgstr "Все рубрики"
+
+#: ../inc/widgets/posts_list.php:166
+msgid "Posts sort by:"
+msgstr "Сортировать по:"
+
+#: ../inc/widgets/posts_list.php:168 ../inc/widgets/tabs_widget.php:174
+msgid "all time"
+msgstr "все время"
+
+#: ../inc/widgets/posts_list.php:169 ../inc/widgets/tabs_widget.php:175
+msgid "this week"
+msgstr "эта неделя"
+
+#: ../inc/widgets/posts_list.php:170 ../inc/widgets/tabs_widget.php:176
+msgid "this month"
+msgstr "этот месяц"
+
+#: ../inc/widgets/posts_list.php:171 ../inc/widgets/tabs_widget.php:177
+msgid "last 3 month"
+msgstr "последние 3 месяца"
+
+#: ../inc/widgets/posts_list.php:172
+msgid "random"
+msgstr "случайный порядок"
+
+#: ../inc/widgets/posts_list.php:182
+msgid "Post Types:"
+msgstr "Тип постов:"
+
+#: ../inc/widgets/related_reviews.php:19
+msgid ""
+"A widget that displays related reviews. Works only on single review post page"
+msgstr ""
+"Виджет который отображает похожие обзоры. Работает только на странице обзоров"
+
+#: ../inc/widgets/related_reviews.php:25
+msgid "ReHub: Related Reviews"
+msgstr "ReHub: Похожие обзоры"
+
+#: ../inc/widgets/related_reviews.php:113
+msgid "Related reviews"
+msgstr "Похожие обзоры"
+
+#: ../inc/widgets/social_link_widget.php:25
+msgid "ReHub: Social icons"
+msgstr "ReHub: Социальные иконки"
+
+#: ../inc/widgets/social_link_widget.php:69
+msgid "Follow Us"
+msgstr "Следовать за нами"
+
+#: ../inc/widgets/social_link_widget.php:71
+msgid ""
+"Links on social profiles you can set at Rehub Theme Options - Social media "
+"options"
+msgstr "Ссылки на профили вы можете установить в Опции темы - Социальные медиа"
+
+#: ../inc/widgets/sticky_scroll.php:19
+msgid "Widget that sticks after sidebar scroll. Use only in sidebar!"
+msgstr "Виджет который прилепляется при скролле. (sticky). Только для сайдбара"
+
+#: ../inc/widgets/sticky_scroll.php:25
+msgid "ReHub: Sticky on scroll"
+msgstr "ReHub: Sticky при скролле"
+
+#: ../inc/widgets/sticky_scroll.php:77
+msgid "Use this widget only once and only in sidebar area!"
+msgstr "Используйте этот виджет только раз и только в сайдбаре!"
+
+#: ../inc/widgets/tabs_widget.php:19
+msgid ""
+"A widget that displays 2 tabs (popular, categories, tags, latest comments). "
+"Use only in sidebar! "
+msgstr ""
+"Виджет для отображения двух вкладок (популярные записи, рубрики, теги, "
+"последние комментарии). Только для сайдбара!"
+
+#: ../inc/widgets/tabs_widget.php:25
+msgid "ReHub: Tabs"
+msgstr "ReHub: Табы"
+
+#: ../inc/widgets/tabs_widget.php:74 ../inc/widgets/tabs_widget.php:85
+msgid "Popular"
+msgstr "Популярные"
+
+#: ../inc/widgets/tabs_widget.php:152
+msgid "Content for 1 tab"
+msgstr "Контент для 1 вкладки"
+
+#: ../inc/widgets/tabs_widget.php:154 ../inc/widgets/tabs_widget.php:164
+msgid "Popular posts"
+msgstr "Популярные посты"
+
+#: ../inc/widgets/tabs_widget.php:155 ../inc/widgets/tabs_widget.php:165
+msgid "Latest comments"
+msgstr "Последние комментарии"
+
+#: ../inc/widgets/tabs_widget.php:156 ../inc/widgets/tabs_widget.php:166
+msgid "Category list"
+msgstr "Список категорий"
+
+#: ../inc/widgets/tabs_widget.php:157 ../inc/widgets/tabs_widget.php:167
+msgid "Tags cloud"
+msgstr "Облако тегов"
+
+#: ../inc/widgets/tabs_widget.php:162
+msgid "Content for 2 tab"
+msgstr "Контент для второй вкладки"
+
+#: ../inc/widgets/tabs_widget.php:172
+msgid "Popular posts sort by:"
+msgstr "Популярные записи сортировать по:"
+
+#: ../inc/widgets/tabs_widget.php:181
+msgid "Popular posts based on:"
+msgstr "Популярные записи основаны на:"
+
+#: ../inc/widgets/tabs_widget.php:184
+msgid "Post views"
+msgstr "Просмотров"
+
+#: ../inc/widgets/tabs_widget.php:187
+msgid "Note, post views may not work if you use cache plugins!"
+msgstr ""
+"Внимание, просмотры записей могут не работать если вы используете кеширующие "
+"плагины!"
+
+#: ../mdf_templates/template/offer/index.php:48
+#: ../template-affarchivegrid.php:99
+msgid "Details +"
+msgstr "Показать детали"
+
+#: ../page.php:17 ../single.php:146 ../template-fullwidth.php:22
+#: ../template-landing.php:56
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: ../search.php:7
+msgid "Search Results"
+msgstr "Результаты поиска"
+
+#: ../search.php:20
+msgid ""
+"Your search did not return any results. Please try using a different search "
+"term."
+msgstr "Ваш поиск не дал результатов. Попробуйте другой запрос."
+
+#: ../shortcodes/shortcodes.php:494
+msgid "From category: "
+msgstr "С рубрики:"
+
+#: ../shortcodes/tinyMCE/includes/accordion.php:38
+msgid "Title of section"
+msgstr "Заголовок секции"
+
+#: ../shortcodes/tinyMCE/includes/accordion.php:43
+#: ../shortcodes/tinyMCE/includes/tabs.php:43
+#: ../shortcodes/tinyMCE/includes/toggle.php:50
+msgid "Content"
+msgstr "Контент"
+
+#: ../shortcodes/tinyMCE/includes/accordion.php:51
+msgid "Add Accordition"
+msgstr "Добавить аккордеон"
+
+#: ../shortcodes/tinyMCE/includes/accordion.php:55
+#: ../shortcodes/tinyMCE/includes/afflist.php:52
+#: ../shortcodes/tinyMCE/includes/bars.php:57
+#: ../shortcodes/tinyMCE/includes/box.php:105
+#: ../shortcodes/tinyMCE/includes/button.php:140
+#: ../shortcodes/tinyMCE/includes/codebox.php:65
+#: ../shortcodes/tinyMCE/includes/colortable.php:64
+#: ../shortcodes/tinyMCE/includes/column.php:79
+#: ../shortcodes/tinyMCE/includes/divider.php:59
+#: ../shortcodes/tinyMCE/includes/dropcap.php:46
+#: ../shortcodes/tinyMCE/includes/gallerycarousel.php:49
+#: ../shortcodes/tinyMCE/includes/highlight.php:60
+#: ../shortcodes/tinyMCE/includes/lightbox.php:66
+#: ../shortcodes/tinyMCE/includes/list.php:51
+#: ../shortcodes/tinyMCE/includes/map.php:53
+#: ../shortcodes/tinyMCE/includes/membercontent.php:56
+#: ../shortcodes/tinyMCE/includes/numberbox.php:71
+#: ../shortcodes/tinyMCE/includes/numberheading.php:81
+#: ../shortcodes/tinyMCE/includes/offerbox.php:99
+#: ../shortcodes/tinyMCE/includes/postimagesslider.php:28
+#: ../shortcodes/tinyMCE/includes/price.php:128
+#: ../shortcodes/tinyMCE/includes/promobox.php:203
+#: ../shortcodes/tinyMCE/includes/proscons.php:62
+#: ../shortcodes/tinyMCE/includes/quote.php:75
+#: ../shortcodes/tinyMCE/includes/recentpostcarousel.php:41
+#: ../shortcodes/tinyMCE/includes/recentpostlist.php:44
+#: ../shortcodes/tinyMCE/includes/rss.php:51
+#: ../shortcodes/tinyMCE/includes/slider.php:39
+#: ../shortcodes/tinyMCE/includes/tabs.php:55
+#: ../shortcodes/tinyMCE/includes/testimonial.php:76
+#: ../shortcodes/tinyMCE/includes/titlebox.php:71
+#: ../shortcodes/tinyMCE/includes/toggle.php:56
+#: ../shortcodes/tinyMCE/includes/tooltip.php:76
+#: ../shortcodes/tinyMCE/includes/video.php:88
+#: ../shortcodes/tinyMCE/includes/woobox.php:33
+#: ../vafpress-framework/classes/shortcodegenerator.php:260
+msgid "Insert"
+msgstr "Вставить"
+
+#: ../shortcodes/tinyMCE/includes/afflist.php:35
+msgid "This shortcode works only with Thirsty affiliate offers"
+msgstr "Этот шорткод работает только с Thirsty affiliate"
+
+#: ../shortcodes/tinyMCE/includes/afflist.php:37
+msgid "Affiliate category :"
+msgstr "Рубрика Офферов:"
+
+#: ../shortcodes/tinyMCE/includes/afflist.php:41
+msgid "Number of offers to show"
+msgstr "Число постов для отображения:"
+
+#: ../shortcodes/tinyMCE/includes/afflist.php:45
+msgid "Or set Offer ids :"
+msgstr "Или установите id офферов"
+
+#: ../shortcodes/tinyMCE/includes/afflist.php:47
+msgid ""
+"Set affiliate link IDs with comas without spaces. Example: 233,235,289. This "
+"field is working if you don't set category"
+msgstr ""
+"Установите ID офферов через запятую без пробелов. Пример: 233,234,237. Это "
+"поле работает если вы не установили рубрику"
+
+#: ../shortcodes/tinyMCE/includes/bars.php:41
+#: ../shortcodes/tinyMCE/includes/codebox.php:52
+#: ../shortcodes/tinyMCE/includes/divider.php:37
+#: ../shortcodes/tinyMCE/includes/titlebox.php:56
+msgid "Style"
+msgstr "СТиль"
+
+#: ../shortcodes/tinyMCE/includes/bars.php:43
+#: ../shortcodes/tinyMCE/includes/colortable.php:53
+#: ../shortcodes/tinyMCE/includes/promobox.php:147
+#: ../shortcodes/tinyMCE/includes/promobox.php:161
+msgid "orange"
+msgstr "оранж"
+
+#: ../shortcodes/tinyMCE/includes/bars.php:44
+#: ../shortcodes/tinyMCE/includes/colortable.php:50
+#: ../shortcodes/tinyMCE/includes/highlight.php:46
+msgid "blue"
+msgstr "Голубой"
+
+#: ../shortcodes/tinyMCE/includes/bars.php:45
+#: ../shortcodes/tinyMCE/includes/colortable.php:48
+#: ../shortcodes/tinyMCE/includes/highlight.php:49
+#: ../shortcodes/tinyMCE/includes/promobox.php:148
+#: ../shortcodes/tinyMCE/includes/promobox.php:163
+msgid "black"
+msgstr "четный"
+
+#: ../shortcodes/tinyMCE/includes/bars.php:46
+#: ../shortcodes/tinyMCE/includes/colortable.php:51
+#: ../shortcodes/tinyMCE/includes/highlight.php:47
+msgid "red"
+msgstr "красный"
+
+#: ../shortcodes/tinyMCE/includes/bars.php:47
+#: ../shortcodes/tinyMCE/includes/colortable.php:52
+#: ../shortcodes/tinyMCE/includes/highlight.php:48
+msgid "green"
+msgstr "Зеленый"
+
+#: ../shortcodes/tinyMCE/includes/bars.php:51
+msgid "Percentage"
+msgstr "Проценты"
+
+#: ../shortcodes/tinyMCE/includes/bars.php:53
+msgid "type without %"
+msgstr "впишите без %"
+
+#: ../shortcodes/tinyMCE/includes/box.php:62
+#: ../shortcodes/tinyMCE/includes/button.php:108
+msgid "Download"
+msgstr "Загрузка"
+
+#: ../shortcodes/tinyMCE/includes/box.php:63
+msgid "Error"
+msgstr "Ошибка"
+
+#: ../shortcodes/tinyMCE/includes/box.php:64
+msgid "Warning"
+msgstr "Внимание"
+
+#: ../shortcodes/tinyMCE/includes/box.php:65
+msgid "Yellow color box"
+msgstr "Желтый цветной блок"
+
+#: ../shortcodes/tinyMCE/includes/box.php:66
+msgid "Green color box"
+msgstr "Зеленый цветной блок"
+
+#: ../shortcodes/tinyMCE/includes/box.php:67
+msgid "Gray color box"
+msgstr "Серый цветной блок"
+
+#: ../shortcodes/tinyMCE/includes/box.php:68
+msgid "Blue color box"
+msgstr "Голубой цветной блок"
+
+#: ../shortcodes/tinyMCE/includes/box.php:69
+msgid "Red color box"
+msgstr "Красный цветной блок"
+
+#: ../shortcodes/tinyMCE/includes/box.php:70
+msgid "Dashed border box"
+msgstr "Пунктирный блок"
+
+#: ../shortcodes/tinyMCE/includes/box.php:71
+msgid "Solid border box"
+msgstr "Сплошная граница"
+
+#: ../shortcodes/tinyMCE/includes/box.php:72
+msgid "Transparent background box"
+msgstr "Прозрачный блок"
+
+#: ../shortcodes/tinyMCE/includes/box.php:78
+#: ../shortcodes/tinyMCE/includes/button.php:107
+msgid "None"
+msgstr "никто"
+
+#: ../shortcodes/tinyMCE/includes/box.php:79
+#: ../shortcodes/tinyMCE/includes/box.php:86
+msgid "Left"
+msgstr "Влево"
+
+#: ../shortcodes/tinyMCE/includes/box.php:80
+#: ../shortcodes/tinyMCE/includes/box.php:87
+msgid "Right"
+msgstr "Вправо"
+
+#: ../shortcodes/tinyMCE/includes/box.php:88
+msgid "Center"
+msgstr "Посередине"
+
+#: ../shortcodes/tinyMCE/includes/box.php:89
+msgid "Justify"
+msgstr "На всю ширину"
+
+#: ../shortcodes/tinyMCE/includes/box.php:93
+#: ../shortcodes/tinyMCE/includes/quote.php:65
+msgid "Width (with %)"
+msgstr "Ширина (без %)"
+
+#: ../shortcodes/tinyMCE/includes/box.php:95
+msgid "Or live blank for full width"
+msgstr "Или оставьте пустым для ширины на 100%"
+
+#: ../shortcodes/tinyMCE/includes/box.php:100
+#: ../shortcodes/tinyMCE/includes/codebox.php:61
+#: ../shortcodes/tinyMCE/includes/colortable.php:60
+#: ../shortcodes/tinyMCE/includes/column.php:75
+#: ../shortcodes/tinyMCE/includes/dropcap.php:42
+#: ../shortcodes/tinyMCE/includes/highlight.php:56
+#: ../shortcodes/tinyMCE/includes/lightbox.php:62
+#: ../shortcodes/tinyMCE/includes/membercontent.php:52
+#: ../shortcodes/tinyMCE/includes/numberbox.php:67
+#: ../shortcodes/tinyMCE/includes/numberheading.php:77
+#: ../shortcodes/tinyMCE/includes/quote.php:71
+#: ../shortcodes/tinyMCE/includes/testimonial.php:72
+#: ../shortcodes/tinyMCE/includes/titlebox.php:67
+#: ../shortcodes/tinyMCE/includes/toggle.php:52
+#: ../shortcodes/tinyMCE/includes/tooltip.php:72
+msgid "Leave blank if you selected text in visual editor"
+msgstr "Оставьте пустым если вы уже выбрали текст в визуальном редакторе"
+
+#: ../shortcodes/tinyMCE/includes/button.php:75
+#: ../shortcodes/tinyMCE/includes/price.php:102
+msgid "Red"
+msgstr "красный"
+
+#: ../shortcodes/tinyMCE/includes/button.php:76
+#: ../shortcodes/tinyMCE/includes/numberbox.php:60
+#: ../shortcodes/tinyMCE/includes/numberheading.php:61
+#: ../shortcodes/tinyMCE/includes/price.php:103
+#: ../shortcodes/tinyMCE/includes/titlebox.php:60
+msgid "Orange"
+msgstr "оранж"
+
+#: ../shortcodes/tinyMCE/includes/button.php:79
+#: ../shortcodes/tinyMCE/includes/numberbox.php:59
+#: ../shortcodes/tinyMCE/includes/numberheading.php:60
+#: ../shortcodes/tinyMCE/includes/price.php:106
+#: ../shortcodes/tinyMCE/includes/titlebox.php:59
+msgid "Black"
+msgstr "четный"
+
+#: ../shortcodes/tinyMCE/includes/button.php:80
+#: ../shortcodes/tinyMCE/includes/price.php:107
+msgid "Rosy"
+msgstr "Алый"
+
+#: ../shortcodes/tinyMCE/includes/button.php:81
+#: ../shortcodes/tinyMCE/includes/price.php:108
+msgid "Brown"
+msgstr "Коричневый"
+
+#: ../shortcodes/tinyMCE/includes/button.php:82
+#: ../shortcodes/tinyMCE/includes/price.php:109
+msgid "Pink"
+msgstr "Розовый"
+
+#: ../shortcodes/tinyMCE/includes/button.php:83
+#: ../shortcodes/tinyMCE/includes/price.php:110
+msgid "Purple"
+msgstr "Пурпурный"
+
+#: ../shortcodes/tinyMCE/includes/button.php:84
+#: ../shortcodes/tinyMCE/includes/price.php:111
+msgid "Gold"
+msgstr "Золотой"
+
+#: ../shortcodes/tinyMCE/includes/button.php:85
+#: ../shortcodes/tinyMCE/includes/price.php:112
+msgid "Teal"
+msgstr "Волна"
+
+#: ../shortcodes/tinyMCE/includes/button.php:91
+msgid "Small"
+msgstr "Маленький"
+
+#: ../shortcodes/tinyMCE/includes/button.php:92
+msgid "Medium"
+msgstr "Средний"
+
+#: ../shortcodes/tinyMCE/includes/button.php:93
+msgid "Big"
+msgstr "Большой"
+
+#: ../shortcodes/tinyMCE/includes/button.php:97
+msgid "Button Link :"
+msgstr "Ссылка:"
+
+#: ../shortcodes/tinyMCE/includes/button.php:101
+msgid "Border radius (with px) :"
+msgstr "Радиус закругления (с px) :"
+
+#: ../shortcodes/tinyMCE/includes/button.php:109
+msgid "Tick"
+msgstr "Отметить"
+
+#: ../shortcodes/tinyMCE/includes/button.php:110
+msgid "Save"
+msgstr "Сохранить"
+
+#: ../shortcodes/tinyMCE/includes/button.php:111
+msgid "Heart"
+msgstr "Сердце"
+
+#: ../shortcodes/tinyMCE/includes/button.php:112
+#: ../shortcodes/tinyMCE/includes/list.php:41
+msgid "Star"
+msgstr "Звезда"
+
+#: ../shortcodes/tinyMCE/includes/button.php:113
+msgid "Map marker"
+msgstr "Маркер на карте"
+
+#: ../shortcodes/tinyMCE/includes/button.php:114
+msgid "Thumbs Up"
+msgstr "Палец вверх"
+
+#: ../shortcodes/tinyMCE/includes/button.php:115
+msgid "Thumbs Down"
+msgstr "Палец вниз"
+
+#: ../shortcodes/tinyMCE/includes/button.php:116
+msgid "Phone"
+msgstr "Телефон"
+
+#: ../shortcodes/tinyMCE/includes/button.php:117
+msgid "Link"
+msgstr "Ссылка"
+
+#: ../shortcodes/tinyMCE/includes/button.php:118
+msgid "Paper clip"
+msgstr "Клипса"
+
+#: ../shortcodes/tinyMCE/includes/button.php:119
+msgid "Key"
+msgstr "Ключ"
+
+#: ../shortcodes/tinyMCE/includes/button.php:124
+msgid "Open in a new window :"
+msgstr "Открыть в новом окне:"
+
+#: ../shortcodes/tinyMCE/includes/button.php:128
+msgid "Add rel=nofollow :"
+msgstr "Добавить rel=nofollow :"
+
+#: ../shortcodes/tinyMCE/includes/button.php:135
+msgid "Or live blank if you selected a text in visual editor"
+msgstr "или оставьте пустым если вы уже выбрали текст в визуальном редакторе"
+
+#: ../shortcodes/tinyMCE/includes/codebox.php:54
+msgid "Simple"
+msgstr "Простой"
+
+#: ../shortcodes/tinyMCE/includes/codebox.php:55
+msgid "With left blue line"
+msgstr "С левосторонней голубой линией"
+
+#: ../shortcodes/tinyMCE/includes/codebox.php:59
+#: ../shortcodes/tinyMCE/includes/numberbox.php:65
+#: ../shortcodes/tinyMCE/includes/numberheading.php:75
+#: ../shortcodes/tinyMCE/includes/quote.php:69
+#: ../shortcodes/tinyMCE/includes/titlebox.php:65
+msgid "Text"
+msgstr "Текст"
+
+#: ../shortcodes/tinyMCE/includes/colortable.php:45
+msgid "Color of heading table :"
+msgstr "Цвет шапки таблицы:"
+
+#: ../shortcodes/tinyMCE/includes/colortable.php:47
+msgid "grey-default"
+msgstr "серый - по умолчанию"
+
+#: ../shortcodes/tinyMCE/includes/colortable.php:49
+#: ../shortcodes/tinyMCE/includes/highlight.php:45
+msgid "yellow"
+msgstr "Желтая"
+
+#: ../shortcodes/tinyMCE/includes/colortable.php:54
+msgid "purple"
+msgstr "Пурпурный"
+
+#: ../shortcodes/tinyMCE/includes/colortable.php:58
+#: ../shortcodes/tinyMCE/includes/column.php:73
+#: ../shortcodes/tinyMCE/includes/highlight.php:54
+#: ../shortcodes/tinyMCE/includes/lightbox.php:60
+#: ../shortcodes/tinyMCE/includes/tooltip.php:70
+msgid "Content :"
+msgstr "Контент"
+
+#: ../shortcodes/tinyMCE/includes/column.php:52
+msgid "Type of column :"
+msgstr "Тип колонки:"
+
+#: ../shortcodes/tinyMCE/includes/column.php:54
+msgid "One half"
+msgstr "1/2"
+
+#: ../shortcodes/tinyMCE/includes/column.php:55
+msgid "One third"
+msgstr "1/3"
+
+#: ../shortcodes/tinyMCE/includes/column.php:56
+msgid "Two third"
+msgstr "2/3"
+
+#: ../shortcodes/tinyMCE/includes/column.php:57
+msgid "One fourth"
+msgstr "1/4"
+
+#: ../shortcodes/tinyMCE/includes/column.php:58
+msgid "Three fourth"
+msgstr "3/4"
+
+#: ../shortcodes/tinyMCE/includes/column.php:59
+msgid "One fifth"
+msgstr "1/5"
+
+#: ../shortcodes/tinyMCE/includes/column.php:60
+msgid "Two fifth"
+msgstr "2/5"
+
+#: ../shortcodes/tinyMCE/includes/column.php:61
+msgid "Three fifth"
+msgstr "3/5"
+
+#: ../shortcodes/tinyMCE/includes/column.php:62
+msgid "Four fifth"
+msgstr "4/5"
+
+#: ../shortcodes/tinyMCE/includes/column.php:63
+msgid "One sixth"
+msgstr "1/6"
+
+#: ../shortcodes/tinyMCE/includes/column.php:64
+msgid "Five sixth"
+msgstr "5/6"
+
+#: ../shortcodes/tinyMCE/includes/column.php:69
+msgid "Check if column is last:"
+msgstr "Колонка последняя?"
+
+#: ../shortcodes/tinyMCE/includes/divider.php:39
+msgid "solid"
+msgstr "сплошная"
+
+#: ../shortcodes/tinyMCE/includes/divider.php:40
+msgid "dotted"
+msgstr "точками"
+
+#: ../shortcodes/tinyMCE/includes/divider.php:41
+msgid "dashed"
+msgstr "пунктир"
+
+#: ../shortcodes/tinyMCE/includes/divider.php:42
+msgid "double"
+msgstr "двойная"
+
+#: ../shortcodes/tinyMCE/includes/divider.php:43
+msgid "fadeout"
+msgstr "размытие снаружи"
+
+#: ../shortcodes/tinyMCE/includes/divider.php:44
+msgid "fadein"
+msgstr "размытие внутри"
+
+#: ../shortcodes/tinyMCE/includes/divider.php:45
+msgid "transparent"
+msgstr "прозрачная"
+
+#: ../shortcodes/tinyMCE/includes/divider.php:46
+msgid "clear floats"
+msgstr "очистить плавающие блоки"
+
+#: ../shortcodes/tinyMCE/includes/divider.php:49
+msgid "Margin top (with px)"
+msgstr "Отступ сверху (с px)"
+
+#: ../shortcodes/tinyMCE/includes/divider.php:54
+msgid "Margin bottom (with px)"
+msgstr "Отступ снизу (с px)"
+
+#: ../shortcodes/tinyMCE/includes/gallerycarousel.php:39
+msgid "Images ids"
+msgstr "Ids картинок"
+
+#: ../shortcodes/tinyMCE/includes/gallerycarousel.php:41
+msgid "Insert ids of images with commas."
+msgstr "Вставьте isd картинок через запятую"
+
+#: ../shortcodes/tinyMCE/includes/gallerycarousel.php:44
+msgid "Enable prettyphoto?"
+msgstr "Включить prettyphoto?"
+
+#: ../shortcodes/tinyMCE/includes/highlight.php:43
+msgid "Color of highlight :"
+msgstr "Цвет выделения"
+
+#: ../shortcodes/tinyMCE/includes/lightbox.php:50
+msgid "Full Image or Youtube Video URL : "
+msgstr "Полное изображение или Ютуб видео ссылка:"
+
+#: ../shortcodes/tinyMCE/includes/lightbox.php:55
+msgid "Title for link:"
+msgstr "Заголовок ссылки"
+
+#: ../shortcodes/tinyMCE/includes/list.php:39
+msgid "Arrow"
+msgstr "Стрелка"
+
+#: ../shortcodes/tinyMCE/includes/list.php:40
+msgid "Check"
+msgstr "Отметка"
+
+#: ../shortcodes/tinyMCE/includes/list.php:42
+msgid "Bullet"
+msgstr "Точка"
+
+#: ../shortcodes/tinyMCE/includes/list.php:46
+msgid "List Text"
+msgstr "Текст списка"
+
+#: ../shortcodes/tinyMCE/includes/list.php:47
+#: ../shortcodes/tinyMCE/includes/proscons.php:52
+#: ../shortcodes/tinyMCE/includes/proscons.php:56
+msgid "Separated by a new-line (by Enter)"
+msgstr "Каждый с новой строки (через ввод)"
+
+#: ../shortcodes/tinyMCE/includes/map.php:41
+msgid "Location"
+msgstr "Локация"
+
+#: ../shortcodes/tinyMCE/includes/map.php:44
+msgid "Zoom"
+msgstr "Увеличить"
+
+#: ../shortcodes/tinyMCE/includes/map.php:48
+msgid "Height of map (with px)"
+msgstr "Высота карты (с px)"
+
+#: ../shortcodes/tinyMCE/includes/membercontent.php:45
+msgid "Text for guests"
+msgstr "Текст для гостей"
+
+#: ../shortcodes/tinyMCE/includes/membercontent.php:47
+msgid "Or live blank for default text"
+msgstr "Или оставьте пустым для текста по умолчанию"
+
+#: ../shortcodes/tinyMCE/includes/membercontent.php:50
+msgid "Text for members"
+msgstr "Текст для пользователей"
+
+#: ../shortcodes/tinyMCE/includes/numberbox.php:52
+#: ../shortcodes/tinyMCE/includes/numberheading.php:53
+msgid "Number"
+msgstr "Номер"
+
+#: ../shortcodes/tinyMCE/includes/numberbox.php:56
+#: ../shortcodes/tinyMCE/includes/numberheading.php:57
+msgid "Style of number"
+msgstr "Стиль номера"
+
+#: ../shortcodes/tinyMCE/includes/numberbox.php:58
+#: ../shortcodes/tinyMCE/includes/numberheading.php:59
+#: ../shortcodes/tinyMCE/includes/promobox.php:122
+#: ../shortcodes/tinyMCE/includes/titlebox.php:58
+msgid "Grey"
+msgstr "Серый"
+
+#: ../shortcodes/tinyMCE/includes/numberheading.php:65
+msgid "Heading"
+msgstr "Заголовок"
+
+#: ../shortcodes/tinyMCE/includes/offerbox.php:63
+msgid "Affiliate link ID :"
+msgstr "Affiliate ссылка ID :"
+
+#: ../shortcodes/tinyMCE/includes/offerbox.php:65
+msgid ""
+"Set affiliate link ID that you want to show as product offer or set data "
+"manually below. ThirstyAffiliate plugin must be installed for working with "
+"affiliate link ID"
+msgstr ""
+"Установить affiliate link ID который вы хотите отобразить как продукт оффер "
+"или установите данные в ручную ниже. ThirstyAffiliate плагин должен быть "
+"установлен чтобы этот функционал работал"
+
+#: ../shortcodes/tinyMCE/includes/offerbox.php:68
+msgid "Offer price :"
+msgstr "Цена оффера"
+
+#: ../shortcodes/tinyMCE/includes/offerbox.php:73
+#: ../shortcodes/tinyMCE/includes/promobox.php:183
+msgid "Button link :"
+msgstr "Ссылка:"
+
+#: ../shortcodes/tinyMCE/includes/offerbox.php:78
+#: ../shortcodes/tinyMCE/includes/promobox.php:188
+msgid "Button text :"
+msgstr "Текст кнопки:"
+
+#: ../shortcodes/tinyMCE/includes/offerbox.php:83
+msgid "Title of offer :"
+msgstr "Заголовк оффера:"
+
+#: ../shortcodes/tinyMCE/includes/offerbox.php:88
+msgid "OfferBox description:"
+msgstr "Описание оффера:"
+
+#: ../shortcodes/tinyMCE/includes/offerbox.php:92
+msgid "Offer thumbnail url"
+msgstr "Ссылка на изображение для оффера:"
+
+#: ../shortcodes/tinyMCE/includes/offerbox.php:94
+msgid "You can leave this field blank"
+msgstr "Вы можете оставить это поле пустым"
+
+#: ../shortcodes/tinyMCE/includes/postimagesslider.php:24
+msgid "This shortcode makes slider from all images that attached to post"
+msgstr "Этот шорткод создает слайдер со всех изображений загруженных в пост"
+
+#: ../shortcodes/tinyMCE/includes/price.php:66
+msgid "Create new section"
+msgstr "Создать новую секцию"
+
+#: ../shortcodes/tinyMCE/includes/price.php:68
+#: ../shortcodes/tinyMCE/includes/price.php:84
+msgid "No"
+msgstr "Нет"
+
+#: ../shortcodes/tinyMCE/includes/price.php:69
+#: ../shortcodes/tinyMCE/includes/price.php:85
+msgid "Yes"
+msgstr "Да"
+
+#: ../shortcodes/tinyMCE/includes/price.php:72
+msgid "Column size"
+msgstr "Размер колонки"
+
+#: ../shortcodes/tinyMCE/includes/price.php:93
+msgid "Price"
+msgstr "Цена"
+
+#: ../shortcodes/tinyMCE/includes/price.php:97
+msgid "Example: $99.95 / month"
+msgstr "Пример: $99.95 / месяц"
+
+#: ../shortcodes/tinyMCE/includes/price.php:100
+msgid "Color"
+msgstr "Цвет"
+
+#: ../shortcodes/tinyMCE/includes/price.php:116
+msgid "Button URL"
+msgstr "Ссылка на кнопке"
+
+#: ../shortcodes/tinyMCE/includes/price.php:123
+msgid "List of items"
+msgstr "Список позиций"
+
+#: ../shortcodes/tinyMCE/includes/price.php:124
+msgid "Separated by a new-line (press Enter)"
+msgstr "Каждый с новой строки (через Enter)"
+
+#: ../shortcodes/tinyMCE/includes/promobox.php:120
+msgid "Background-color :"
+msgstr "Цвет фона"
+
+#: ../shortcodes/tinyMCE/includes/promobox.php:128
+msgid "Show border?"
+msgstr "Показать границу?"
+
+#: ../shortcodes/tinyMCE/includes/promobox.php:133
+msgid "Border size :"
+msgstr "Размер границы:"
+
+#: ../shortcodes/tinyMCE/includes/promobox.php:144
+msgid "Border color :"
+msgstr "Цвет границы:"
+
+#: ../shortcodes/tinyMCE/includes/promobox.php:146
+#: ../shortcodes/tinyMCE/includes/promobox.php:162
+msgid "grey"
+msgstr "Серый"
+
+#: ../shortcodes/tinyMCE/includes/promobox.php:154
+msgid "Show highlight border?"
+msgstr "Показать выделенную границу:"
+
+#: ../shortcodes/tinyMCE/includes/promobox.php:159
+msgid "Highlight color :"
+msgstr "Цвет выделения:"
+
+#: ../shortcodes/tinyMCE/includes/promobox.php:168
+msgid "Highlight position :"
+msgstr "Позиция выделения:"
+
+#: ../shortcodes/tinyMCE/includes/promobox.php:170
+#: ../shortcodes/tinyMCE/includes/quote.php:60
+msgid "left"
+msgstr "Влево"
+
+#: ../shortcodes/tinyMCE/includes/promobox.php:171
+msgid "top"
+msgstr "сверху"
+
+#: ../shortcodes/tinyMCE/includes/promobox.php:172
+#: ../shortcodes/tinyMCE/includes/quote.php:61
+msgid "right"
+msgstr "Вправо"
+
+#: ../shortcodes/tinyMCE/includes/promobox.php:173
+msgid "bottom"
+msgstr "снизу"
+
+#: ../shortcodes/tinyMCE/includes/promobox.php:178
+msgid "Show button?"
+msgstr "Показать кнопку?"
+
+#: ../shortcodes/tinyMCE/includes/promobox.php:193
+msgid "Title of box :"
+msgstr "Заголовок:"
+
+#: ../shortcodes/tinyMCE/includes/promobox.php:198
+msgid "Box content :"
+msgstr "Контент блока:"
+
+#: ../shortcodes/tinyMCE/includes/proscons.php:51
+msgid "Positives"
+msgstr "Положительные стороны"
+
+#: ../shortcodes/tinyMCE/includes/proscons.php:55
+msgid "Negatives"
+msgstr "Негативное"
+
+#: ../shortcodes/tinyMCE/includes/proscons.php:58
+msgid "PROS:"
+msgstr "Позитив:"
+
+#: ../shortcodes/tinyMCE/includes/proscons.php:59
+msgid "CONS:"
+msgstr "Негатив:"
+
+#: ../shortcodes/tinyMCE/includes/quote.php:53
+msgid "Author"
+msgstr "Автор"
+
+#: ../shortcodes/tinyMCE/includes/quote.php:58
+msgid "Float"
+msgstr "Положение"
+
+#: ../shortcodes/tinyMCE/includes/recentpostcarousel.php:31
+#: ../shortcodes/tinyMCE/includes/recentpostlist.php:39
+msgid "Number of posts to show"
+msgstr "Чисто постов для отображения:"
+
+#: ../shortcodes/tinyMCE/includes/recentpostcarousel.php:33
+msgid "Minimum 4"
+msgstr "Минимум 4"
+
+#: ../shortcodes/tinyMCE/includes/recentpostcarousel.php:36
+msgid "Category ID (optional) :"
+msgstr "Id рубрики (опционально) :"
+
+#: ../shortcodes/tinyMCE/includes/recentpostlist.php:35
+msgid "Cat ID"
+msgstr "ID рубрики"
+
+#: ../shortcodes/tinyMCE/includes/rss.php:30
+msgid "Number of items to display"
+msgstr "Кол-во позиций для отображения"
+
+#: ../shortcodes/tinyMCE/includes/rss.php:45
+msgid "Url of feed"
+msgstr "Ссылка на фид"
+
+#: ../shortcodes/tinyMCE/includes/slider.php:35
+msgid "Separated each image by a new-line (by Enter)"
+msgstr "Каждое изображение с новой строки (через Enter)"
+
+#: ../shortcodes/tinyMCE/includes/tabs.php:38
+msgid "Title of tab"
+msgstr "Заголовок вкладки"
+
+#: ../shortcodes/tinyMCE/includes/tabs.php:51
+msgid "Add Tab"
+msgstr "Добавить вкладку"
+
+#: ../shortcodes/tinyMCE/includes/testimonial.php:62
+msgid "With author? :"
+msgstr "Автор"
+
+#: ../shortcodes/tinyMCE/includes/testimonial.php:66
+msgid "Author :"
+msgstr "Автор"
+
+#: ../shortcodes/tinyMCE/includes/titlebox.php:61
+msgid "Double dotted"
+msgstr "Двойная точка"
+
+#: ../shortcodes/tinyMCE/includes/tooltip.php:53
+msgid "Content of tooltip"
+msgstr "Контент тултипа"
+
+#: ../shortcodes/tinyMCE/includes/tooltip.php:57
+msgid "Gravities :"
+msgstr "Положение:"
+
+#: ../shortcodes/tinyMCE/includes/tooltip.php:59
+msgid "Northwest"
+msgstr "СЗ"
+
+#: ../shortcodes/tinyMCE/includes/tooltip.php:60
+msgid "North"
+msgstr "С"
+
+#: ../shortcodes/tinyMCE/includes/tooltip.php:61
+msgid "Northeast"
+msgstr "СВ"
+
+#: ../shortcodes/tinyMCE/includes/tooltip.php:62
+msgid "West"
+msgstr "З"
+
+#: ../shortcodes/tinyMCE/includes/tooltip.php:63
+msgid "East"
+msgstr "В"
+
+#: ../shortcodes/tinyMCE/includes/tooltip.php:64
+msgid "Southwest"
+msgstr "ЮЗ"
+
+#: ../shortcodes/tinyMCE/includes/tooltip.php:65
+msgid "South"
+msgstr "Ю"
+
+#: ../shortcodes/tinyMCE/includes/tooltip.php:66
+msgid "Southeast"
+msgstr "ЮВ"
+
+#: ../shortcodes/tinyMCE/includes/video.php:61
+msgid "Video Url :"
+msgstr "Ссылка на видео"
+
+#: ../shortcodes/tinyMCE/includes/video.php:66
+msgid "With schema?"
+msgstr "С schema форматированием?"
+
+#: ../shortcodes/tinyMCE/includes/video.php:70
+msgid "Title of video :"
+msgstr "Заголовк видео:"
+
+#: ../shortcodes/tinyMCE/includes/video.php:74
+msgid "Description of video :"
+msgstr "Описание видео:"
+
+#: ../shortcodes/tinyMCE/includes/video.php:78
+msgid "Width (with px):"
+msgstr "Ширина (с px):"
+
+#: ../shortcodes/tinyMCE/includes/video.php:82
+msgid "Height (with px):"
+msgstr "Высота (с px):"
+
+#: ../shortcodes/tinyMCE/includes/video.php:85
+msgid "You can leave blank width and height for using default value"
+msgstr ""
+"Вы можете оставить значения высоты и ширины пустыми, чтобы использовать "
+"значения по умолчанию"
+
+#: ../shortcodes/tinyMCE/includes/woobox.php:27
+msgid "Product id"
+msgstr "ID продукта"
+
+#: ../shortcodes/tinyMCE/includes/woobox.php:29
+msgid "Insert woocommerce product ID"
+msgstr "Вставьте woocommerce ID продукта"
+
+#: ../shortcodes/tinyMCE/tinyMCE.php:64 ../shortcodes/tinyMCE/tinyMCE.php:68
+msgid "Shortcode Generator"
+msgstr "Шорткод генератор"
+
+#: ../shortcodes/tinyMCE/tinyMCE.php:67
+msgid "Select your shortcode above to get started"
+msgstr "Выберите шорткод чтобы начать"
+
+#: ../shortcodes/tinyMCE/tinyMCE.php:79 ../shortcodes/tinyMCE/tinyMCE.php:81
+msgid "Select shortcode"
+msgstr "Выбрать шорткод"
+
+#: ../shortcodes/tinyMCE/tinyMCE.php:82
+msgid "Elements and typography"
+msgstr "Элементы и типография"
+
+#: ../shortcodes/tinyMCE/tinyMCE.php:83
+msgid "Button"
+msgstr "Кнопка"
+
+#: ../shortcodes/tinyMCE/tinyMCE.php:84
+msgid "Highlight"
+msgstr "Выделение"
+
+#: ../shortcodes/tinyMCE/tinyMCE.php:85
+msgid "Quote"
+msgstr "Цитата"
+
+#: ../shortcodes/tinyMCE/tinyMCE.php:86
+msgid "Dropcap"
+msgstr "Большая буква"
+
+#: ../shortcodes/tinyMCE/tinyMCE.php:87
+msgid "Testimonial"
+msgstr "Свидетельство"
+
+#: ../shortcodes/tinyMCE/tinyMCE.php:89
+msgid "Tooltip"
+msgstr "Тултип"
+
+#: ../shortcodes/tinyMCE/tinyMCE.php:90
+msgid "Divider"
+msgstr "Разделитель"
+
+#: ../shortcodes/tinyMCE/tinyMCE.php:91
+msgid "Columns"
+msgstr "Колонка"
+
+#: ../shortcodes/tinyMCE/tinyMCE.php:92
+msgid "Numbered Headings"
+msgstr "Нумерованный заголовок"
+
+#: ../shortcodes/tinyMCE/tinyMCE.php:93
+msgid "Boxes"
+msgstr "Блоки"
+
+#: ../shortcodes/tinyMCE/tinyMCE.php:94
+msgid "Box"
+msgstr "Блок"
+
+#: ../shortcodes/tinyMCE/tinyMCE.php:95
+msgid "Promobox"
+msgstr "Промоблок"
+
+#: ../shortcodes/tinyMCE/tinyMCE.php:96
+msgid "Box with number"
+msgstr "Блок с цифрой"
+
+#: ../shortcodes/tinyMCE/tinyMCE.php:97
+msgid "Box with title"
+msgstr "Блок с тайтлом"
+
+#: ../shortcodes/tinyMCE/tinyMCE.php:98
+msgid "Code box"
+msgstr "Блок с кодом"
+
+#: ../shortcodes/tinyMCE/tinyMCE.php:99
+msgid "Offer box"
+msgstr "Оффер блок"
+
+#: ../shortcodes/tinyMCE/tinyMCE.php:100
+msgid "List of offers"
+msgstr "Список офферов"
+
+#: ../shortcodes/tinyMCE/tinyMCE.php:101
+msgid "Woocommerce Offer box"
+msgstr "Woocommerce Оффер блок"
+
+#: ../shortcodes/tinyMCE/tinyMCE.php:102
+msgid "Pros Cons box"
+msgstr "Позитив-Негатив Бокс"
+
+#: ../shortcodes/tinyMCE/tinyMCE.php:103
+msgid "Table with color header"
+msgstr "Таблица с цветным хедером"
+
+#: ../shortcodes/tinyMCE/tinyMCE.php:104
+msgid "Media"
+msgstr "Медиа"
+
+#: ../shortcodes/tinyMCE/tinyMCE.php:106
+msgid "Lightbox"
+msgstr "Лайтбокс"
+
+#: ../shortcodes/tinyMCE/tinyMCE.php:107
+msgid "Slider"
+msgstr "Слайдер"
+
+#: ../shortcodes/tinyMCE/tinyMCE.php:108
+msgid "Slider from post images"
+msgstr "Слайдер из изображений поста"
+
+#: ../shortcodes/tinyMCE/tinyMCE.php:109
+msgid "Carousel of recent posts"
+msgstr "Карусель с недавних записей"
+
+#: ../shortcodes/tinyMCE/tinyMCE.php:110
+msgid "Gallery carousel"
+msgstr "Галерея карусель"
+
+#: ../shortcodes/tinyMCE/tinyMCE.php:111
+msgid "Interactive"
+msgstr "Интерактивные"
+
+#: ../shortcodes/tinyMCE/tinyMCE.php:112
+msgid "Accordion"
+msgstr "Аккордеон"
+
+#: ../shortcodes/tinyMCE/tinyMCE.php:113
+msgid "Tabs"
+msgstr "Табы"
+
+#: ../shortcodes/tinyMCE/tinyMCE.php:114
+msgid "Toggle"
+msgstr "Переключатель"
+
+#: ../shortcodes/tinyMCE/tinyMCE.php:115
+msgid "Bar with percentage"
+msgstr "Панель с процентами"
+
+#: ../shortcodes/tinyMCE/tinyMCE.php:116
+msgid "Functions"
+msgstr "Функции"
+
+#: ../shortcodes/tinyMCE/tinyMCE.php:117
+msgid "List of recent posts"
+msgstr "Список последних записей"
+
+#: ../shortcodes/tinyMCE/tinyMCE.php:118
+msgid "Google map"
+msgstr "Гугл карта"
+
+#: ../shortcodes/tinyMCE/tinyMCE.php:119
+msgid "Price Table"
+msgstr "Таблица цен"
+
+#: ../shortcodes/tinyMCE/tinyMCE.php:120
+msgid "RSS grabber"
+msgstr "RSS граббер"
+
+#: ../shortcodes/tinyMCE/tinyMCE.php:121
+msgid "Content for members"
+msgstr "Контент для пользователей"
+
+#: ../sidebar.php:6
+msgid "No widgets added"
+msgstr "Не добавлено ни одного виджета"
+
+#: ../single.php:201
+msgid "Back"
+msgstr "назад"
+
+#: ../single.php:203
+msgid "Next"
+msgstr "Вперед"
+
+#: ../single.php:212
+msgid "Tags: "
+msgstr "Теги: "
+
+#: ../template-ecwid.php:25
+msgid ""
+"No ecwid widgets added. Add text widget to ecwid widget area and insert "
+"widget code from ecwid account"
+msgstr ""
+"Ни одного ecwid виджета не добавлено. Добавьте текстовый виджет к ecwid "
+"виджет зоне и вставьте код с ecwid аккаунта"
+
+#: ../vafpress-framework/bootstrap.php:88
+#: ../vafpress-framework/classes/option.php:364
+#: ../vafpress-framework/classes/option.php:389
+msgid "Successful"
+msgstr "Успешно"
+
+#: ../vafpress-framework/bootstrap.php:99
+msgid "Unauthorized function"
+msgstr "Неавторизованная функция"
+
+#: ../vafpress-framework/classes/metabox.php:35
+msgid "[Development Mode] "
+msgstr "[Девелоперский режим] "
+
+#: ../vafpress-framework/classes/metabox.php:566
+#: ../vafpress-framework/classes/metabox/alchemy.php:493
+msgid "Remove"
+msgstr "Удалить"
+
+#: ../vafpress-framework/classes/metabox.php:588
+#: ../vafpress-framework/classes/metabox/alchemy.php:515
+msgid "Add More"
+msgstr "Добавить еще"
+
+#: ../vafpress-framework/classes/option.php:47
+#: ../vafpress-framework/classes/option.php:48
+msgid "Vafpress Options"
+msgstr "Vafpress Options"
+
+#: ../vafpress-framework/classes/option.php:61
+msgid "Option Key is required"
+msgstr "Ключ опций обязателен"
+
+#: ../vafpress-framework/classes/option.php:63
+msgid "Template Array/File is required"
+msgstr "Массив/Файл требуется"
+
+#: ../vafpress-framework/classes/option.php:65
+msgid "Page Slug is required"
+msgstr "Требуется слаг страницы"
+
+#: ../vafpress-framework/classes/option.php:167
+msgid ""
+"Development Mode is Active, options' values won't be saved into database."
+msgstr ""
+"Включен режим для разработчика, опции не будут сохранены в базу данных."
+
+#: ../vafpress-framework/classes/option.php:306
+msgid "Can not be empty"
+msgstr "Не может быть пусто"
+
+#: ../vafpress-framework/classes/option.php:331
+msgid "Invalid data"
+msgstr "Неверные данные"
+
+#: ../vafpress-framework/classes/option.php:394
+msgid "Unverified Access"
+msgstr "Неверифицированный доступ"
+
+#: ../vafpress-framework/classes/option.php:460
+msgid "Invalid template supplied"
+msgstr "Неверный шаблон применен"
+
+#: ../vafpress-framework/classes/option.php:473
+msgid "Utility"
+msgstr "Утилиты"
+
+#: ../vafpress-framework/classes/option.php:479
+#: ../vafpress-framework/views/option/restore.php:13
+msgid "Restore Default"
+msgstr "Восстановить значения по умолчанию"
+
+#: ../vafpress-framework/classes/option.php:488
+msgid "Export/Import"
+msgstr "Экспорт/Импорт"
+
+#: ../vafpress-framework/classes/option/control/set.php:359
+msgid "Saving successful"
+msgstr "Успешное сохранение"
+
+#: ../vafpress-framework/classes/option/control/set.php:370
+msgid "Saving failed"
+msgstr "Сохранение с ошибкой"
+
+#: ../vafpress-framework/classes/option/control/set.php:376
+msgid "No changes made"
+msgstr "Не сделано изменений"
+
+#: ../vafpress-framework/classes/shortcodegenerator.php:261
+msgid "Cancel"
+msgstr "Отмена"
+
+#: ../vafpress-framework/config/messages.php:13
+msgid "Value needs to be Alphabet"
+msgstr "Данные должны быть алфавитные"
+
+#: ../vafpress-framework/config/messages.php:14
+msgid "Value needs to be Alphanumeric"
+msgstr "Данные должны быть буквенно-цифровые"
+
+#: ../vafpress-framework/config/messages.php:15
+msgid "Value needs to be Numeric"
+msgstr "Данные должны быть цифровые"
+
+#: ../vafpress-framework/config/messages.php:16
+msgid "Value needs to be Valid Email"
+msgstr "Данные должны быть в виде email"
+
+#: ../vafpress-framework/config/messages.php:17
+msgid "Value needs to be Valid URL"
+msgstr "Данные должны быть в виде ссылки"
+
+#: ../vafpress-framework/config/messages.php:18
+msgid "Length needs to be less than {0} characters"
+msgstr "Длина должна быть меньше чем {0} символов"
+
+#: ../vafpress-framework/config/messages.php:19
+msgid "Length needs to be more than {0} characters"
+msgstr "Длина должна быть больше чем {0} символов"
+
+#: ../vafpress-framework/config/messages.php:20
+msgid "Select no more than {0} items"
+msgstr "Выбор должен быть не более {0} позиций"
+
+#: ../vafpress-framework/config/messages.php:21
+msgid "Select at least {0} items"
+msgstr "Выберите по крайней мере  {0} позиций"
+
+#: ../vafpress-framework/config/messages.php:22
+msgid "This is required"
+msgstr "Обязательно"
+
+#: ../vafpress-framework/config/messages.php:29
+msgid "Import succeed, option page will be refreshed.."
+msgstr "Импорт успешен, страница сейчас обновится"
+
+#: ../vafpress-framework/config/messages.php:30
+msgid "Import failed"
+msgstr "Импорт вызвал ошибку"
+
+#: ../vafpress-framework/config/messages.php:31
+msgid "Export succeed, copy the JSON formatted options"
+msgstr "Эскпорт успешен, скопируйте данные"
+
+#: ../vafpress-framework/config/messages.php:32
+msgid "Export failed"
+msgstr "Эскпорт вызвал ошибку"
+
+#: ../vafpress-framework/config/messages.php:33
+msgid "Restoration succeed, option page will be refreshed.."
+msgstr "Восстановление прошло успешно"
+
+#: ../vafpress-framework/config/messages.php:34
+msgid "Options identical to default"
+msgstr "Опции идентичны дефолтным"
+
+#: ../vafpress-framework/config/messages.php:35
+msgid "Restoration failed"
+msgstr "Восстановление вызвало ошибку"
+
+#: ../vafpress-framework/config/messages.php:43
+msgid "Select option(s)"
+msgstr "Выбрать опции"
+
+#: ../vafpress-framework/config/messages.php:45
+msgid "Select an Icon"
+msgstr "Выбрать иконку"
+
+#: ../vafpress-framework/views/control/upload.php:5
+msgid "Choose File"
+msgstr "Выбрать файл"
+
+#: ../vafpress-framework/views/option/impexp.php:4
+#: ../vafpress-framework/views/option/impexp.php:14
+msgid "Import"
+msgstr "Импорт"
+
+#: ../vafpress-framework/views/option/impexp.php:7
+msgid "Import Options"
+msgstr "Импорт опций"
+
+#: ../vafpress-framework/views/option/impexp.php:27
+#: ../vafpress-framework/views/option/impexp.php:37
+msgid "Export"
+msgstr "Экспорт"
+
+#: ../vafpress-framework/views/option/impexp.php:30
+msgid "Export Options"
+msgstr "Экспорт Опций"
+
+#: ../vafpress-framework/views/option/restore.php:4
+msgid "Restore Default Options"
+msgstr "Восстановить дефолтные опции"
+
+#: ../vafpress-framework/views/option/restore.php:7
+msgid "Restore options to initial default values."
+msgstr "Восстановить опции чтобы инициировать дефолтные значения."
+
+#: ../vafpress-framework/views/option/restore.php:14
+msgid ""
+"** Please make sure you have already make a backup data of your current "
+"settings. Once you click this button, your current settings will be gone."
+msgstr ""
+"** Убедитесь что вы сделали бекап данных. Как только вы нажмете на кнопку, "
+"текущие установки пропадут."
+
+#: ../vafpress-framework/views/option/set.php:69
+#: ../vafpress-framework/views/option/set.php:84
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+#: ../vafpress-framework/views/option/set.php:70
+#: ../vafpress-framework/views/option/set.php:85
+msgid "Saving Now"
+msgstr "Сохранить сейчас"
+
+#: ../woocommerce/single-product/related.php:38
+msgid "Related Products"
+msgstr "Похожие продукты"
+
+#: ../woocommerce/single-product/short-description.php:20
+#: ../woocommerce/single-product/tabs/description.php:22
+msgid "Read review of product"
+msgstr "Читать обзор"
+
+#: ../woocommerce/single-product/tabs/description.php:14
+msgid "Product Description"
+msgstr "Описание"
+
+#~ msgid "Footer Menu"
+#~ msgstr "Футер меню"
+
+#~ msgid "Comments review:"
+#~ msgstr "Обзор:"
+
+#~ msgid "Reviews Options"
+#~ msgstr "Опции обзоров"
+
+#~ msgid "Enable white style"
+#~ msgstr "Включить светлый стиль"
+
+#~ msgid "Enable white style of carousel? Default - dark."
+#~ msgstr "Включить светлый стиль карусели, по умолчанию - темный"
+
+#~ msgid "Review Score"
+#~ msgstr "Итог обзора"
+
+#~ msgid ""
+#~ "Select posts for feature slider or leave blank to display 3 latest "
+#~ "featured posts"
+#~ msgstr ""
+#~ "Выбрать записи для слайдера или оставьте пустым чтобы использовать "
+#~ "последние 3 избранные записи"
+
+#~ msgid ""
+#~ "Select 2 posts for right feature section or leave blank to display 2 "
+#~ "latest featured posts"
+#~ msgstr ""
+#~ "Выберите 2 записи для правой части или оставьте пустым, чтобы "
+#~ "использовать последние 2 записи"
+
+#~ msgid ""
+#~ "You need to have minimum 5 featured posts (3 for slider and 2 for right "
+#~ "section) for correct work of feature section"
+#~ msgstr ""
+#~ "Вы должны иметь минимум 5 избранных постов (3 для слайдера и 2 для правой "
+#~ "части). "
+
+#~ msgid ""
+#~ "This option panel is built using <a href=\"http://vafpress.com/vafpress-"
+#~ "framework\">Vafpress Framework %s</a> powered by <a href=\"http://"
+#~ "vafpress.com\">Vafpress</a>"
+#~ msgstr " "
+
+#~ msgid "rehub_sticky_nav"
+#~ msgstr "rehub_sticky_nav"
