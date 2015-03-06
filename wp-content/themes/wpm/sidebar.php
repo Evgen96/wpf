@@ -11,13 +11,13 @@ if ( has_nav_menu( 'primary' ) || has_nav_menu( 'social' ) || is_active_sidebar(
 	<div id="secondary" class="secondary">
 
 		<?php if ( has_nav_menu( 'primary' ) ) : ?>
-
+			<nav id="site-navigation" class="main-navigation" role="navigation">
 				<?php
-					// Primary navigation menu.
-					wp_nav_menu( array(
-						'menu_class'     => 'nav-menu',
-						'theme_location' => 'primary',
-					) );
+				// Primary navigation menu.
+				wp_nav_menu( array(
+					'menu_class'     => 'nav-menu',
+					'theme_location' => 'primary',
+				) );
 				?>
 			</nav><!-- .main-navigation -->
 
@@ -36,6 +36,7 @@ if ( has_nav_menu( 'primary' ) || has_nav_menu( 'social' ) || is_active_sidebar(
 				?>
 			</select>
 			</nav><!-- .my-navigation -->
+
 		<?php endif; ?>
 
 		<?php if ( has_nav_menu( 'social' ) ) : ?>
