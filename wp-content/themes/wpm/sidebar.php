@@ -37,6 +37,7 @@ if ( has_nav_menu( 'primary' ) || has_nav_menu( 'social' ) || is_active_sidebar(
 			</select>
 			</nav><!-- .my-navigation -->
 
+
 		<?php endif; ?>
 
 		<?php if ( has_nav_menu( 'social' ) ) : ?>
