@@ -35,6 +35,22 @@ if ( has_nav_menu( 'primary' ) || has_nav_menu( 'social' ) || is_active_sidebar(
 				?>
 			</nav><!-- .my-navigation -->
 
+			<select name="event-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'>
+				<option value=""><?php echo esc_attr('Выберете событие'); ?></option>
+				<?php
+				$categories=  get_categories('child_of=10');
+				foreach ($categories as $category) {
+					$option = '<option value="/category/archives/'.$category->category_nicename.'">';
+					$option .= $category->cat_name;
+					$option .= ' ('.$category->category_count.')';
+					$option .= '</option>';
+					echo $option;
+				}
+				?>
+			</select>
+			</nav><!-- .my-navigation -->
+
+
 		<?php endif; ?>
 
 		<?php if ( has_nav_menu( 'social' ) ) : ?>
